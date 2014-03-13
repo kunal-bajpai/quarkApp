@@ -1,0 +1,19 @@
+<?php
+//define constants used later
+!defined('SITE_ROOT')?define('SITE_ROOT',$_SERVER['DOCUMENT_ROOT'].'/mobappclub/quark'):NULL;
+!defined('LIB_PATH')?define('LIB_PATH',SITE_ROOT.'/includes/'):NULL;
+!defined('TIME_DIFF')?define('TIME_DIFF',45000):NULL;
+!defined('HOST')?define('HOST','quarkApp.db.11956393.hostedresource.com'):NULL;
+!defined('USER')?define('USER','quarkApp'):NULL;
+!defined('PASS')?define('PASS','QuarkApp@dmin1'):NULL;
+!defined('DB')?define('DB','quarkApp'):NULL;
+!defined('LOG_FILE')?define('LOG_FILE',LIB_PATH."log.txt"):NULL;
+!defined('READABLE_LOG_FILE')?define('READABLE_LOG_FILE',LIB_PATH."log_readable.txt"):NULL;
+!defined('LOG_FILE_GCM')?define('LOG_FILE_GCM',LIB_PATH."gcm.log"):NULL;
+!defined('LOGIN_PAGE')?define('LOGIN_PAGE',"/quark/admin/index.php"):NULL;
+!defined('UPLOAD_DIR')?define('UPLOAD_DIR',SITE_ROOT."/images/sponsors/"):NULL;
+!defined('IMAGES')?define('IMAGES',"http://www.mobappclub.com/quark/images/sponsors/"):NULL;
+!defined('DEFAULT_IMAGE')?define('DEFAULT_IMAGE',"default.png"):NULL;
+!defined('GCM_PROJECT_ID')?define('GCM_PROJECT_ID',"599449460569"):NULL;
+!defined('GOOGLE_API_KEY')?define('GOOGLE_API_KEY',"AIzaSyA4nsz7PUK-26cGhC5VuYXRJak4YAUKCtE"):NULL;  
+?>

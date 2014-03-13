@@ -1,0 +1,367 @@
+2014/22/01 19:53:14 admin: Logs cleared.<br/><br/>
+2014/22/01 19:57:29 : New device registration 352638051645225 | APA91bGNHN2hI4A5oEExIYBK-1ZSeBKb0cr1WSpdipkex8wLseWxEnW8hTsvw5IhaKJp9bUGYYEzWj13WtlckDkyno9X7zr7LjzJyZhFg7C3qc-nO5PD_ZgakrmMy-h3P9Tm4p1YNbGp49uRFY63R2wnOSspSah4RQ<br/><br/>
+2014/22/01 20:00:21 admin: Update #2  sent<br/><br/>
+2014/22/01 20:00:55 admin: Update #2 (Quark 2014 : February 7-9th 2014. Beyond dimensions.) removed<br/><br/>
+2014/22/01 20:20:35 : New device registration 352795053991013 | APA91bHurVIctfefCGU7JEddH68pfmm_sTCDBOUReURNC_Up9s_mKeyX9KeCWaR6rbOM6MGftiKFoadBPhzhy_gGIej_LNyipFl8KTHsfi5K6LKYy2FJxN0ZTAu3Tda9xT4JnCDn6AQzjxf52lga1nmvIjkewfhsbA<br/><br/>
+2014/22/01 20:27:18 : New device registration 352276059017574 | APA91bEjHx1gpCvkOc5KpjidL6QBh4QWWfWU623a6i0pOveMIStL1PhCrisT_R9Xlyr1aLhXLTxn2neBsY2aV5tmj6DZEiuFy9g61yJLOeRWFLvHjty-yokGwvX7HePlOFrryySH0oIjfyVss0ng-4pBbAgwJqOV4Q<br/><br/>
+2014/22/01 20:32:23 : New device registration 355136056572657 | APA91bF4WK_BqNGNyJHB1VfcONaoLJEwFYnkzh818FMul2ghobhD0noRpTV-MCgB40I1s21WnPex398A15-ldFmTgNTw5LcHrnmuaE3Ln9txnhwVeI5dg_1ky-QFdBR6WVn0esb2dYCGDF9Of_ozRuMuGtfB24P_jg<br/><br/>
+2014/22/01 20:33:59 admin: Sponsor #6 Nike new5 sent<br/><br/>
+2014/22/01 20:34:01 admin: Sponsor #7 Nike new6 sent<br/><br/>
+2014/22/01 20:34:53 admin: Event BITSMUN 2014 venue updated to Lecture Theatre 1<br/><br/>
+2014/22/01 20:35:06 admin: Event BITSMUN 2014 venue updated to <br/><br/>
+2014/22/01 20:35:35 admin: Event Applification venue updated to A-302<br/><br/>
+2014/22/01 20:36:22 admin: Event Applification venue updated to <br/><br/>
+2014/22/01 20:37:38 : New device registration 356489054372466 | APA91bGj1oPPxSCL7CMb0RnmPKUx6xfmyvHAwA2VMPtDvZd2HIgdolvsZP5rZo3MfZR001MPSXZ86edRo1yDA0e1B4G7_M26xH95RkEH5BCUF7uVpqIWoa2ixUGBC0myNW9nleHULQqa8tdeUI65FQWRHFD18YbnHw<br/><br/>
+2014/22/01 20:39:40 : New device registration 356575051653740 | APA91bEsdwh75RhOMPgaSal57UOm0x3bPBZzw9hfqS-rdPAPp_ARVzxzlzVeeRr4XBnvcFku6iPiLDhyLB8nr_MSm8M8S0XWR1b_aOkEO_F2D3rHmZwiEJDMu5A3ontWp3T0dfrL_W9RvXMXnEHdEhF3qxLry85ltg<br/><br/>
+2014/22/01 20:39:46 admin: Password changed<br/><br/>
+2014/22/01 20:40:19 : New device registration 862808021271757 | APA91bFm0luApspCUhS8b_ykR1-gNkCnPkSQAX0mcOA5KA6CUSSgxm_0-G0QB-eZyTC3Rsea39k4GnZCtJLe7jotnGyXup9x08juDhIt1HNv88fT-T0mg3WzbUk9ZY0mVPOvE8DH-rqDWtpEE7i05MZT9FgAay2hRA<br/><br/>
+2014/22/01 21:01:10 : New device registration 352266057284110 | APA91bFD0sdd3J3tzutj_Wwm3UxxXsWIwo0ZfPe1gbtyVjshooMrOsFZ-XFsbvdhkC6WP5TufOxGp37HolM6yIZAdBOo_YTKUjvdAC89-AJToS_ghv0vWSeWMkpbcNAugvqdJo8_dDMYKfrKJAoIKGZJJNC88h42IA<br/><br/>
+2014/22/01 21:16:10 : New device registration 356262054644766 | APA91bGebe9YN6-LFa9R_3WhsxHsDphCKt0QpzWp8c9Yx3uR8qDawsQBIR7gz3syij4RlecZnQjYI6NJm8PS8rw_6vvatDDdXJjDEmRmlRFwcPqKbAFhRWYVrDRftLf8v85IszhXV1I_LkW-N0Wz5T0XgmodMky-5Q<br/><br/>
+2014/22/01 22:41:19 : New device registration 911310450044723 | APA91bEu9GGnXBh7JINs8a8Rv3ieiZIG-YpzdnvyNYGjU8XNOEckqD4E_-B1CrB_HdFqDkKouwrLahcsG1rJDqUO_8MhTGhsm0H6v_9kAdkOPjCjqBnwNCiYfAVhkEIYFVP85s7kGikKHgL9mruhp3szBbBZNRQ3TA<br/><br/>
+2014/22/01 23:16:24 : New device registration 358794046416869 | APA91bGWuGLid2xB45xEL1Cin69V968NhLmb3v73J5zNQo7JnpJtcq_dLsHcEKGkZgQtUiZbhqxDcNRAH6P4VqfxKkENzTj7fwRGmpL0ESfBLo4G8lvBxnJx61Hz4wTF4t-17JGeWX3YtM3Lk_EV8laFbUAK6T9gMg<br/><br/>
+2014/22/01 23:52:52 : New device registration 355810051207085 | APA91bEyZpaTQQ3N0r7BFWbFMtIhofhKivgHWz5Q6gIcvqkkfSf2VxfvcNaSAGKNYzBOSOMRvGc54R1gtv9fkHEA1weHUVzJb2wEiPH_PRQXNVRYjDvNMnBQV9IA8vqquSpBHqqBJ-CEqTyhX2o0lAlyt5l7-f7-9w<br/><br/>
+2014/23/01 00:14:07 : New device registration 356489057336203 | APA91bHmn23czMTTK_4_cvck2CqdVA69Oe-F3vnC-h16xYxkwts8RFy4zVe0BPTdcI8Qzk7Law_cj3xrs7jLK_gMAXsgV7nfp1TepkX94HQeoR-Arfzc-U-7pxv_rQdvYxu9KWAK3oJU8FNqBBlsNmBHmJKFT22hOQ<br/><br/>
+2014/23/01 00:28:44 : New device registration 911304251190322 | APA91bEFwXnrXQN-JqTjAAwbc9D94_eCSjzVOmkKa4SQJ3a3U9opbtzDbwSqFuOgfNdOWI4cp_orNQJ9U1wZHxsaBFJ_T_TblCgFfuF24L9eYIj-7feleOadgomFSzYW1NkQwXIH8jrB5JJxf00nYX15ZR1CDiF8Zw<br/><br/>
+2014/23/01 00:50:25 : New device registration 356575050593822 | APA91bHoz-BQJKSw_npXie7CUfVF78WEscBwYg31S-gXcMr9OUddcuC7WcAkDwGIObV2PmSVKxTgsTQ9kY4Pdt5SZ20FfjPBW_b1ABixl3M9P_ez-u55uJ3rPeAawQg_RckIQYULuaWZWK45BBX3UBRAaIIzvqZeKQ<br/><br/>
+2014/23/01 01:37:26 : New device registration 355136054574481 | APA91bGLYFpcoOVt8yUOHd1TuVzVoPxU9Pqgc-g417UW5hBbjwf3vxEEhKDPfC4e2GnpFq9eidLzlLwFj2wDf94OrUDcyY22UcGiqe1qtPFBjzCJdLgW7-ffPe23xGdz2P2GRJaRpTB5FKjlVBkCpRwYS5ORtnYHqA<br/><br/>
+2014/23/01 02:08:09 : New device registration 049a0df9 | APA91bGpEb_X4Q-J9WbnPCO4HAYLXoWQfGJKhp55eB-3N4DJe1CEqIQACXTWG6486I2sgEVyI9gZa942qiPXsXudD-8Q4jbdKwwuuihP-bqXuF64TvDeETxrPAImCD2zDPWI7TlwYdpuYk2BHAvv3WaC2B0rqgxjRg<br/><br/>
+2014/23/01 08:17:26 : New device registration 351816058163910 | APA91bF3SmlnSKbHDG7pRlGkVK6q9gtFUc9dowiCrFdbdIrBbFcgIVfZeH6sPZRL_b5iLFqT1GjDuNt--UMj_eMeuagd-sRoNoanSWopy449x2JD28312IBApQmRmPO6UV02nNRa6Fcl3OzV9YOa0UC_U0QJGL-A4g<br/><br/>
+2014/23/01 08:58:59 : New device registration 352890051211934 | APA91bF04lAWaK5TFQAF8OiYFkyl6DaAfE4f2AuqArnn-v5wkRyaElA6c0fKA8QIScKnDuCCM4c-cc6xJ8W7yYDD23GC_1VH6aSbk-HRw7o_moKSjY9s5BF3q_5sHMPl1HHcjrAeRLvlzK8fSyls6g__dg8O4yxxEg<br/><br/>
+2014/23/01 10:19:04 : New device registration 478974885897192 | APA91bHYh1hsCngWwskncztZ9MQosedOf5hZIM9cDMBuuZZ6MptXB4-EK-2IOWi5I-Ng2PbaIQDH7iUE7FAOZ07Zm7A7KMzfpSwApZOrzGbE86_h7g7dVaqrsCw2v4PwabEick5UXIZStEKKb9nUv3qU3HwHGxtgQA<br/><br/>
+2014/23/01 10:32:10 : New device registration 354905051356808 | APA91bGKwTkNkool7YrP59cDjUEg2lzWKTC0F5rfKAs5wnUa9LJ4lbXzYbSjNCpTIjynlj_2jWlYgQWq2A9_cUFNR5D9U0h1JQaf56W5ky8IbZaTDbJlId1ZDGbz_UxZAm7MUmtPXZrBxsg5asuOWNo8zZi4z5zXCA<br/><br/>
+2014/23/01 10:55:09 : New device registration 352110051082007 | APA91bHt1fT1nv5wqzSOmn6o5mo6-gv_5TwQR056j2kwxfaP_2-aEqhGSuaXFw0iZ6HYKwfgns3sQDwyx2E1VkvgXwtd4-HzyA-jU2nNiLx8oIJesYgGLmeSRYy4gnJ6dEWYxflsmcuVgVb8jPpMkFSTr3pXPvd4-A<br/><br/>
+2014/23/01 11:04:54 : New device registration 911304253640688 | APA91bHs16zP75WCdzSEh6MYkLmOe4HhG2ezgv9s2pO0ZruvsBjCsY61HEr4ZpeqKYbQn2hvQAJjSQaoFgGrmQFGdQ9XPvUkH0okCR4ViQ9DoDpbXRRDlM2DXpTmLnuJWdusDf8F2o42xP5heJOhTLX9Rm6aiy-Uaw<br/><br/>
+2014/23/01 11:56:11 : New device registration 356575051958438 | APA91bGJvg9DnNHCZoVgWT3dXlfRKHzT-ySMK1SuINVYmUUDM3gdxzAXwdLRqQdhWPjtQPXva1dkIXEZRHrSNdDtH73AHnevB12NE0vutwYNwEBmKWF65iyRrCokpcL9UDCkW8SCHRTeU7iho3T_p8EbWQ8r2J6VOg<br/><br/>
+2014/23/01 12:41:59 : New device registration 358240057471450 | APA91bHw9pYrrMj37OwdXCuqzcAFbC6wl336OvzF2ieW0zHiv1L93kkOy4rrCijwM9ULuHF6puM07TIl5GNcTsGmqWlgglDxIkq_R4aYUTKGMgy7dO1nvN6e1D81F6ghHq_dkKjaIN33sXnyYekiwxmvSJcGQFKxKw<br/><br/>
+2014/23/01 13:43:29 : New device registration 359188040738676 | APA91bFgtQ8UpzZsTXAbt92LSjsrXvVa5f-6jDaSQ9d00CXvdry6kdh2Jj9g0CnlaklfGFN94cam05cry3VhMWl6nib437JuOT3ukPdw8mkZHr3IzgnB62M5Ccsi_I9BwAqL_ajFrY5yrWQ-c4KUriDnyu3lragJTg<br/><br/>
+2014/23/01 15:06:18 : New device registration 356032050121857 | APA91bGcu3F-TqIja9Nv6smjc_XIzBmZ877lmnf-MmLB58tdY5YuTtywEMTG6O_bywNwhRl0FaB0N7cUP41Wn6wYOUnLrwm86vKuG5ZSq7afg4Dmg9wTJo-dbsk6H_nU5gd-u6wc_Aw8tp20AMurrd0-ZUDkn1MLuA<br/><br/>
+2014/23/01 15:08:59 : New device registration 355672052917074 | APA91bEGjzQ-gJAQd1JFgDCBQGwO2irk8OH2fPT_07vWpkcxchQyCsRe_BjL-DWGkkcD4cHaCcXYuBgwplwxIA9RuPgeMxobB8f3VgqId1y8IRqdk_W1_6PLONNOtS5Xo9TXw6e6-awQsD7WW2QLpHpPEWLWzKwZyg<br/><br/>
+2014/23/01 15:11:44 : New device registration 911321250214531 | APA91bH6AIoDgeU3sp_JktDeMwZ4erk5N02togAvTvlD13gc_tgBYwNZXl7XyHsN1K5UEU8YA6DOGRuBN6lqTRLWfXD5LDEJklybcZp5CxLex7p4Vj_RrOmFnRx5-G5WkAvw2ZOMaT5-Lw3XxkQHfSxTwIcdXj093A<br/><br/>
+2014/23/01 18:47:35 : New device registration 355886054824860 | APA91bEs-zUlEsYSdJki8uWMcdvn8l4OtPBSMlrPqw3zkaSm9jW6-LHqPV5ef2wRgmd9E-1dznSBzky6U5fJ5ncpVO_blMsaAn-pQZo6UMyDHZN7mTVnikfUxAjKv0dmzLKv9KgHAWvgvNsJtQoOd7kwYwHKwqlKfg<br/><br/>
+2014/23/01 19:24:31 : New device registration 351816055865897 | APA91bGyR5xSfQ7ajIX91xkk1rB9XI1LK41ctRuAhaNBzJSKciI2HoAEdRuBgB1pHfKwbBtFOgKMvXtBhihA1fvH74jxiyb-SKkkGCqL64cE7hx-V1erWKrrsHn1ps-GvmujOQXnCcFEbk4BAz_E2du5K3ttSe4x1A<br/><br/>
+2014/23/01 20:53:44 : New device registration 356605050096821 | APA91bEstblZQXkvI4rx44N01xCbfionR_TO4qo6qMqlHjD0R0luhEGK0Oe9TmZhHx7W0OXX9f7gT4Xg9D2WqbbO0uA7bE47qxlkrFyF3zuOeHRUdsDyKqqkhj-o_EcdpFJJodS76fCq1ksYzBPuZj9Uf-Bm7FSdCA<br/><br/>
+2014/23/01 22:04:13 : New device registration 358240053469094 | APA91bFiUMMXBR_t5IxsSOYGyR28-BFePlnaKXWWmuMeo-BOS-iik83T9Do3qdd-mE3WEUppj5Jv9JenWEFVnDEzf5290gC2n6-B_r8VyDIIW9EQI1ffrjRBTBSnjQJXVexx8Rdy7Z3B7r2LgxfG3esCiT7Z8qZpUA<br/><br/>
+2014/23/01 22:20:17 : New device registration 354905057809255 | APA91bFkSVhbgBVOxq5_L0ZfBho2VyZIrcqoK5_4eFNj3BlVfxQ5R3Y9Z_O1NBpIQtuD0jvXcm2eP603KAoLRLaDyPasGtbVcigJb79CBsXXO3Sxlwut1SVNY0HD704Gb-g_wYkHLPssjjHaWeSk_vgIlrxloWF7AA<br/><br/>
+2014/23/01 22:26:55 : New device registration 911334750006018 | APA91bFlWouScZg3RowtIcVtEe9kHJBjAIS1aEJgVQtUqxr3sqwLFW8gG2QgDFKLcyUm8EgdQN9o58joJnuYcG34hqQnQk54YTpRjHex9Er4nzv98qLaJEW0Cd-cAAoFJMiG5V-2frOasCVUdTfU27CCH5tKsfS76A<br/><br/>
+2014/23/01 23:11:07 : New device registration 355136056445276 | APA91bGycSpYwWpYHXON86zVeoUQvKNWmoa_f063OQoijbG_QrHcER5BS6zs8gU452ZLliSqZ-6W9HLYjjpBCFBv8nm81ljPxRa3Uk271XcJzGO9tjVlrs80VG9hlp4jYcRCrKtxterZ9_AoIuv-JUbvR4zOkCmg6g<br/><br/>
+2014/23/01 23:11:24 : New device registration 358240058456419 | APA91bGW1hvYY4e0pEiYTWk22iISBn5ty_fYAoc0vhUS9nqX3zo-nMZxaeKRnPSBRDFwREyPS6kwVGJ2vVJk_1e_zA6HmcQCv2Ne1g-u4c59qEQ28O7JooZ9hayeEejRWTp5NaxrY_zcON9fzfaCcrr_23J5aVEUKw<br/><br/>
+2014/24/01 00:39:43 : New device registration 451586145816882 | APA91bGMHKFdrbYun-odomiR1xANIQIsx0w-bgFl7Q0t2jVGTH_AVQ1pxCqBGKErefDFEs3hybXaCTuOgwcw7L5rAt3V1oeBZ_r5Ug-ud_lEGaED9KK5wapRx_n1DkCBYgtJz9FVPHnpaPJcS_TVHld9KN6xcqITPw<br/><br/>
+2014/24/01 00:53:05 : New device registration 355810051321779 | APA91bF96apxS-WG8Zq1H_jLG0CYrbuoiH5RklcTjiM2k-iKTA8xPlyeadEbWDVxGTVntd3ozVHjSXVbdseo5K3zqtKVzzfKXBDhWB5dj9dzYM8MHysbKDJJPcrNl4Irsx9Dc8p4hJOf6Zfieog46X1pG82XcICwAg<br/><br/>
+2014/24/01 01:26:04 : New device registration 355803057176578 | APA91bEgJL4506Sq8XUH_tuTN5ikGgJU7dqaiUm90uhhj3gvg5rk97Ogtl6v34OK0aYygZNOIwYLLEqQ9USY_Gip3qVJXawtS2Bg-jal5efKowCPKVKDMJxMVjbsbf3Xz6XhGKVSTqbtA06scZJ4-NDbpj6Ss3f5ew<br/><br/>
+2014/24/01 01:51:04 : New device registration 356489054470724 | APA91bGj7rJ1FEh2pp2As8ppK1dz3cEZJ11c-EXk4rDqPCZClbsyPySvzIXr2SBobFTpm0n7sI8AV_iD0-4A5tOXp88-ilpiFT60QoagFIOAUSuvmE_6iufl_Gx9gmYwE8JwZqkvrS_91hTY6ppfJWmiHWXQfG5mpg<br/><br/>
+2014/24/01 10:27:51 : New device registration 358240053870465 | APA91bGl6uFJ1U2KAJ-wTzuybamIH006elJmtkSiVA0MRk1xkcF6sSsYW2Osc-F7nKrKkFBOvFHrRb-taGb_Emd5KYE_vahhAoRn5A97beEo8ZYtToVXbnYdq3ak-T_KQGvBiyXxwU61RPkaosD8Gqz_1VeO0UXyBA<br/><br/>
+2014/24/01 10:45:33 : New device registration 355698051516427 | APA91bERx7eJUOv5b48FtpHZt7oPzmmSHVgVR5DwzhGSAGEBDXG7xrWCIcCPUm5adcGjsI-REL7hQeffcpiP5n8aI6xoCz5l1SI-jMZf_e9UHQXDkGPkD-Mj9yME3nPIPcez1zK-tndUBoHgWycAjFKMSCYxobre5Q<br/><br/>
+2014/24/01 15:12:41 : New device registration 356534054478480 | APA91bGXg3Ig5J7Rii9Bvov81enOjF0FO0-LyiB-_VBT9HTY8P2Y5TTQUkOZYrzdFVDvL0M3mMEDBbz5KcWYuEJrpdxWyR-xlVbcIhotF-EbABWu3x-dsLektuDfIYzNxl-ykyoN5HnqbuMr77eNP8BJs2hC8wGFVw<br/><br/>
+2014/24/01 15:55:11 : New device registration 352944054823318 | APA91bE_bLQF0CsJkYd5yC-Y61KRM9kROaB44h8cQP_LwBOFEt1mZ9j1sWK--c0PLUEBrQFPbOIz8rQI2GR3C4bqF8_9Bp-OmfFjQrzj45erPqvwY43yHX6JAVFscqCEJNTr5CEwAGLWCNyA5pKo_CY39qWah9CV8g<br/><br/>
+2014/24/01 16:33:35 : New device registration 353742051311181 | APA91bEZ47R1L4zUszy9XgXWyzez3h7QqfDOol85Fm7ccnmndR5tEimJsJgw3zMwztkTMoqTpF4Whvz7HUTXD3P0mEunTLvDQ3ajLhRXlT5X_ZxZYPFK4O8CglEeknONLB961BBaPDDgAFOgAYVgATKL9r5bo24G0g<br/><br/>
+2014/24/01 18:14:19 : New device registration 352264059024428 | APA91bH6W--q3xgwG4N6Esg9qqVj04caYTWsQw5QcEMISMc20COVpl0HeXmfKvAzralCPn-XtAlyGOYMxZVI-YqeBLxYE7DW4dtLoozHhJ_0imvO-bGccdVhiYrXrsyMnonBhSI7m-uotgEBd737ancxeF2ugnCkuA<br/><br/>
+2014/25/01 03:10:32 : New device registration 353043059352339 | APA91bHo5TmAh5XL5WCmpXKPOVu7wfpqKdc-NRWqSmGKsDSNRoFHY8cSyqLA2cXORN-muaxjFqqJrmqv9tTeZBvKBPXIpsq_ztRLhqW1aqztt_GFCQMHlVFfShudyZJpGeYirlM-sGq0AIPEQN80jx6bXkS4HuYqUQ<br/><br/>
+2014/25/01 08:47:34 : New device registration 352265056223178 | APA91bEhmozTDp_Hba4iMOLVToXfhw-KBfeXQemikA3ZpJqPWC8NoIsQ9KuKqfqJ6LuW7-FLdbuJvcCdTBQ1cX3FmR4qIQDdB07KihH0dZKC_r3vyllvbp3AnqFAWZaETTItmciVkl2NLkN0Tou6TWBKEIwT9ocNpA<br/><br/>
+2014/25/01 09:19:48 : New device registration 356631056878053 | APA91bHlrj7ITe0DWYutnrvRUEVevy_LgiQX-XN0UC6Ky6zn4_a6WO5yWf_EaOaQwU2RjWPIpYmZLIOJO2-Uzg-cQ-0n_BQthIaoafF4gBhlN_qOPGy5mxE6068g72lZ5QRE8F8WHpDyVPB2RnjyvmLpYZiMnqrqyA<br/><br/>
+2014/25/01 12:02:49 : New device registration 353596051845212 | APA91bEpx-54BZCT7dd2d4pLN3436lsegKQ_Q7cidkriNpizGa3YCNChPvlJL7mEI8-Mmh_oSF9DcRqALcPzOMQrGe5-qGJQWVSs03FW7VqqnGy6G3Cw_pYTcz0nsQfRCiLFc0l2FPWWBvKs0R4W3XE4ocoZCo_9lg<br/><br/>
+2014/25/01 16:57:59 : New device registration 357986050455897 | APA91bFG3I2Mx1yL2bfuCCAHNc3YZQLK-Ths7F9oJntHIbsrXb4JR6YXQ7SJQxhcSHu2TukdeiB7xgooeWSrt7niqzA94Z4dNE-2Ad5w2LAVJpXzc4la0UT7kZ6_na8vVpJccfFBXe9MK9oKN9SgcH33laJAk0GZ8Q<br/><br/>
+2014/25/01 18:37:42 : New device registration 352935056674402 | APA91bEOmwaapqX_bNokOeYNcY9fFVyGS74INA_flSqypyF4u6wTMEvDGu1Lx7TUGG-jkjEK1pgJlWLMS95_v_olCps1EmbbWWFN3JQLBdcKySN2UD_OD6SpDVytdzHTFZCQ4TYHHYOP_nV_fGlhNKte8olh47sSOw<br/><br/>
+2014/25/01 19:44:07 : New device registration 359828047198537 | APA91bHOYShkPAwlAbzoIhLFwKuhRiPwGIv3YLXspHnobf5drwBIZw8HwBOVsUUHFIMzymemHhKBfRrv3oTzL0l0RHCyeS-aouMJSKGvmc2_mQwyg0ynwKcjG4UdvSSF12fSv3_mA4BPHPytP9IrMT5vzWMKf-oQ5g<br/><br/>
+2014/25/01 19:47:10 : New device registration 355808050131371 | APA91bEHcF-Vuyux5W6Urhzw7v9OCgnQhiy_0NPVfOuz72ZmtcFOgcPPoDaWhWgSz5r_eKRF2OZAkS1ax_XoNrQmMQ8lg-63Jbvo3m0OnLagSTzjVzJm5qQl863dvH_WaAcWMtfKLinOQNu16KdnZKC12toIq0P7XQ<br/><br/>
+2014/25/01 21:16:43 : New device registration 357246053272207 | APA91bGfoxRE1kwws57dio3f7MmM8tL7BAr0kgPG8jKUCgTY88qKrKJeaC6hqvQiek4tz4ABwRqXVItZntHX5LSLArjCpcsLmleUL1qNCe0A284Wf8ceyx5HLkihn6kCDo5lVW4voXqgLu1fM-dcbhGh1OJE7no4iw<br/><br/>
+2014/26/01 00:07:26 : New device registration 353809058343804 | APA91bHYsQo8xxypTaULYmUgxyk2FdQpIvrYNuB9FixBLjDJcjer68tC2A_r7cgEGtRNcbQfYQHeo5tx213N6YCglKL_TYy0zC7_UVnQEH9jqCJKCORxfyo35U-dtRJmGjM1UPeknUCoCz_EJ12kawN_J-n0dIPQcw<br/><br/>
+2014/26/01 13:23:32 : New device registration 353811050153553 | APA91bFj9qmXZg6TLkpRGen1XThzhsRAOBMd1PTgFRcjZFZlcmXOKSxlV4KssfEEytannsrkGerngvKmxQUYIozAD6wh5E724QksxPZvlWvJEd_akRiH71pSwjYTHpcSiwwQbyRPF1bRraT2aCbUA5w2tdZm7y9irw<br/><br/>
+2014/26/01 20:25:08 : New device registration 352795057168998 | APA91bFojbv2e-r4rxmtNvfBa2ahLVlZHVhGblWCZS1PKC0v6yWZOZHbWPB5-dyI9gSGAmIqmbPbO8kP3iTNUNhpdWbcUrTUA-65fyAA-GLseSUG_xps0KD7TRj0vV6zdxYXIcoa705VTH2GCwl2t4D04DlXYr0rsw<br/><br/>
+2014/26/01 20:51:48 : New device registration 355810051082934 | APA91bGl8QJSt6q7gHUN9cwNWhlRrMScIe1szxSXGM4zBt6CQ8V8_fNwWiz6GYbTTkKU4giQk6gUVWkohyjHNwH8eIasjQXUZ2M-_g7RNhhZgnrAzxDORoO7fuPFMIFDd98e6cII-HavppM13S7eyJiuof9hNWOsWA<br/><br/>
+2014/26/01 21:02:07 : New device registration 357138057258441 | APA91bFxJ7gP0L_uaRaErnUcBLhKKk6BE1-IDrk2pvrTmK7U3IN2Dcg31f8G_jQz5yrl6B5bI8iLS0bpHcHrMMCDjYOYAhdr2BFJ5cXnredP6g2YtgxeNwCE7g9N0pg0FSuV9ZmrngfvOnzNVFVNbcD0HoL-Yg_uug<br/><br/>
+2014/26/01 21:18:15 : New device registration 911304251861534 | APA91bFm5QyYzhCx7mwSvacM2NEwi5Q4mpz4axyXxhm7egJcgzEkoQbqgPN3ZHNb_NHHINzjEatDJNjlQcf7TmDmspX5GGlqGebncEuXZqvfOUcYekInwlv-kF9G55AKdekTeshMC3j4PYMDHhoNh4F3dS8xkA5z5g<br/><br/>
+2014/26/01 21:26:49 : New device registration 354905056229430 | APA91bF8xW_80H-zDpxMlucBpaMHfBkxHkC6KVld-DS_sLSLYb2qhZj8DubhN8a-OGsQ9_FujUegfbeqS76_VvmcdkV4UXEFJK3DqG_c_gUWHktMY3gPFKROXaUdZvF9Mqop20jAuePTrI_IQBdZgOj3h-J2-Hr8TA<br/><br/>
+2014/26/01 21:30:53 : New device registration 911239258311234 | APA91bGV3KNS2HQVKc9jhnaFOF09GBm-HUeaz7MrCpHMmRHAfEcG7pnDvhqqFOabYEIXdhQtra3O7-3kwDBmzCE6ccmMPmjYnHd4o74l3vCbWaGL8Fr4gOd7yz7dUywD4j88w8cUvJBPvRffp4_ZH4jcvXcy74oTFw<br/><br/>
+2014/26/01 21:33:32 : New device registration 356637059397033 | APA91bHNkniCQR3t6HGM-ZPC_7ljRLASfQa5eWwuyZoGXW2RFHlTgaMUijKRklRp9dD18ADdiXz4MDxgSVYnrdsbrH1828YaF5Ee7ew2i3sWIWAZd72aNUbR3goAlLgZgT1Ujs1tX43VhoSeYUY3OWmxiaxW1392wQ<br/><br/>
+2014/26/01 21:33:59 : New device registration 355810050962839 | APA91bGC9XD7RbfDVmGexOaGuBdt89k3d1w-mklZVazxVhO3XO_BTHGXb1xPZRX7g_CnPNdl_0tJyprzEWz5T3zMSNLLXSofrMzkeHJa1ShqsBBFHnsT9QLyQN3r2lqacADdGoJI8SRV530j10hZQoO3rv70l3M1Fw<br/><br/>
+2014/26/01 21:36:24 : New device registration 356446057553823 | APA91bHFiL2qVuiqTch6TF7_27mHnqir8heoztPu8XsBiK4InZ5aalUUN7JqEEO1WK7rK4aTjQM6NXASu5oq3-ahEKMCt8prrh_CNMrbCp_kgGfWJnPtyhcgVuwMcmF-v4_rHPUY6Nh1EXao-ABp4J-Gxr0xfKWMSw<br/><br/>
+2014/26/01 21:41:13 : New device registration 356605050034160 | APA91bGGDv4nRwREkQRxVxTWihsAGM9MLLhZHMGNYk0lTJYfZfnuUhHZK8WHSibncNH23LHVy_WuSeXyH39jOKwkjMadf4_Dq9KA2grp1z0d_MNRebCFSpG5QDlZ7CCo4jKp_RndG8ZZMyIrp5b6gzzwQzngFjSbeA<br/><br/>
+2014/26/01 22:11:24 : New device registration 358239050957937 | APA91bG6DOHqpEM7TCaR8iPMZ5knZpLpgSlZ7U2BtP9dR__DRqDHI0LNa2ETBqz-8N1KOVp3sBxU8B6dedEfMKBLTDulRftUweLZBK-Bjq76V-MffBvIVdB7dkqDcn4FOrd03bFazJ9ijB6s0OQaSzoJNQoaqGhdug<br/><br/>
+2014/26/01 22:16:58 : New device registration 99000114904826 | APA91bG7YktWp7NdUfpswSOl4dWCDSUanH0olsawSK4IlO2nrKrmX6E5KpCnSHZGV5vFQOfDOPNjOwT9JWer7fHsuc8FQbkD4hE4KlyRhmBtpFlQdZfyXuV0mJpBujvZRPTrJ-EV5AVjaqcZqipCldafR_NUY-A9Fw<br/><br/>
+2014/26/01 23:21:54 : New device registration 049a0df9 | APA91bGpEb_X4Q-J9WbnPCO4HAYLXoWQfGJKhp55eB-3N4DJe1CEqIQACXTWG6486I2sgEVyI9gZa942qiPXsXudD-8Q4jbdKwwuuihP-bqXuF64TvDeETxrPAImCD2zDPWI7TlwYdpuYk2BHAvv3WaC2B0rqgxjRg<br/><br/>
+2014/26/01 23:31:01 : New device registration 355136054504959 | APA91bE9wJkagmKnC_2J9jZwv7j6O6nHLJl2jo3eqwBoHSWzJ7ITtitWyekPkKTXabuLsfHbv6KPuYsvLSv1OoPoeKzIpZvhtq7-ZUxTfUu0IOjqnFNek2p35js51Mhv7yDp0P-J5UVuYFjWEQ6mqyLU7IEAVLBhoQ<br/><br/>
+2014/26/01 23:31:26 : New device registration 911332300387490 | APA91bEhkYKGLrrQpM9ta8XlyDbQzoij8l9w5HmKapLEOgm79Tg2NImGbwIIUa9U6Eu8bEbZ6HnLjgxEPUjk6zxA3h36wsrlLHYl09a2bFLvtz8jFkSTFGp4SeklWFlwmFDLOkkAOT4cnsuF-grdR0HVnUVDorrEUQ<br/><br/>
+2014/27/01 01:11:29 : New device registration 352890056032392 | APA91bHQI6rI-iHEUn6fRzaKwWoQMRtGdgxLkY6bD3aR4RYANy-HHeG57pqcbi3SaP-lvJb6MC-m_2TyGVUcn_KxvREW3f_QkR35ykccst-7TrfFzxv7lhjJH2lt_y59OaGm97qAvyzVw8bYLL1AEpW1HtEys1yTPQ<br/><br/>
+2014/27/01 10:04:25 : New device registration 358302054841745 | APA91bGEUicTn14twYa0VFILqpSFiJiJ5a5TxSuYY05LgqpEALP1217-V7aJeJypkYQn1Mws3MTNSoIArq8e7Nl4ArSIV1gbga5EPuISRUyWn303JHzgt6iMRTvLZn2S6zMbprRQ5MRDqLyaX4DB1AbOaqRpNyOaIw<br/><br/>
+2014/27/01 13:27:48 : New device registration 911321250214531 | APA91bH6AIoDgeU3sp_JktDeMwZ4erk5N02togAvTvlD13gc_tgBYwNZXl7XyHsN1K5UEU8YA6DOGRuBN6lqTRLWfXD5LDEJklybcZp5CxLex7p4Vj_RrOmFnRx5-G5WkAvw2ZOMaT5-Lw3XxkQHfSxTwIcdXj093A<br/><br/>
+2014/27/01 14:48:58 : New device registration 355803051276218 | APA91bHOoHxcdzvrNbuG4mYefiWsNedsr9LbWn5V4QYCenK9eOwEWB3AWZZvXh9b65DJpXBurXuiolZHzs-yRqPftB_NGzPcstfzfij1QEA-UY7QzByenYAtRBIJn51vrUl8n3k7iOEcwmxcZ6NxF-wUjgUOO1qqyw<br/><br/>
+2014/27/01 16:22:40 : New device registration 355167056828328 | APA91bHdpXm2cHIdqkpxo-pNUQiKOKQhpJdO5xTtxUhm_spQuu_ue5FqC1nbihdsPEc0TOPll5q9lr4FqfymYuaggLCDrOuy5SrWGlx8oPGbocpMX-KEa3SvbDnQWg7gUCBTQlZKb8lMdeh9SPQI8am3gEGrlZIWOA<br/><br/>
+2014/27/01 16:55:40 : New device registration 358239054439437 | APA91bH8qreJRz_GbLE4O7kHXovEp-ngaD0pewO8zUvHW9kXXn3vZHSNFg8vHBiqXZ0EIlT-MV7KrBpcaMtNxUX8jnROwiLlQUGkKlP5huNiLfMC80tUlFmE9Z5nVQ4BjmWS9Zjq0sJ25GavAHEUX13ndLAZhKfk6w<br/><br/>
+2014/27/01 20:54:42 : New device registration 356519050031516 | APA91bHCFRRT48nVi01eIVUHL775TCu9fXOONjsoPZaf3XLWFG-rptaYz0aM-ZzfrmCYFXVHrpMe2oCn2n4R72vH-RwZI6uguHxMtUv9FW4PoIWqtboBMpP4nOjCUX1L3wAyJWUl6dsieMPl26wD9THHdJ2ixCOxmQ<br/><br/>
+2014/27/01 21:04:18 : New device registration 353327052047412 | APA91bHfZp9nIFKhxSsHACqj-qpL2SuigIYFPJsqFtw5_mPEzya3799WnOvpbL5Ve4JxyH9VtOtfhxjc4fXYswlq2w4B6mi_QVxcuXcg--5SN384EfXqBlqgT1AjLZguWh5xvHcDxt-Z9UfJyq6u0E3fJSrm3rmbZw<br/><br/>
+2014/27/01 21:08:20 : New device registration 358870051597718 | APA91bFE59Yy-oHqqVoLxoE_55IfDT0AuUR6lNBGrkR7v9gXMB7ZZYYodZi-BToShNMNefTPAXPN8WMYEGAOw03UIVD0Za9kZDDQaewMTUSNmhVFZf1dAz1UXKejpxOvDi14hvoUb3nezfsWhLMXE7O3uRpaYjE4Hw<br/><br/>
+2014/28/01 11:17:59 : New device registration 911316300145578 | APA91bFXu-t42BNA7bne9_eCSuo9g0hPw6_AoyH_KLUiXLBJ_J68CBaRgDKnM2JZnfR1VotHta2KoZpusVy5OI4mE2C9ZBAQmMrvqSEJtLhW9w9QVA7vcr3xRgxVHmFjJdbZ20m-51tIFtKPWev6m_YgWR2cQsAK8A<br/><br/>
+2014/28/01 19:15:09 : New device registration 355666050460517 | APA91bFhIPWxXeZ1FkL6EJUKh11FvVnHwCU0-1reKD3sD4YaQSi2VS0uvPSZhgc7N_-9_wrYj-kak45oc4YoHv5OrV5kCEEit4hA0B0vtVWTNR-a4hQvnXVntlcl88LuZsu_IUmlslf3CrqU334U8K6haeEFdhnp-Q<br/><br/>
+2014/28/01 21:43:10 : New device registration 358239050087362 | APA91bFGUfknE-5fvQSpGoH0KhXBQ_2WhDthF4MpkdXLoRQ1rvYHouEylYABfcuJq3J8FeTNlGLl2kZbAhNG0PyWqoJ_XT8SPfT7b0bzZboueblU1GsK0XsfphERmWrFhvnY67HLhvSoleKWOQDCH-NMjCBHbhriZw<br/><br/>
+2014/28/01 21:47:18 : New device registration 358018055153001 | APA91bFpXbn077JHYGMNlouYvZC2xe4cHdM-thKfUA0iEJPnFLKN34im9TQAfqn-MYYf4HNh0XzB50-MZpcGKXeRnvNLqlMDZ8sVJw-1lhLkOz87isarXHkOnXrAmRCIDvWX6V7hVQonBGaMUz_U9bAhE8NrgvtB6g<br/><br/>
+2014/28/01 23:42:43 : New device registration 015d4a5f441c0e02 | APA91bEkn3_cr0UQOaUjLQ02IxwdSUtt5sVBBHNj2Y7Awh2Xo3L59lLUfDUlWnPytW4vbjr94ZdlbPMjoqtvcuuEG-Sz6P7FxSwFrW2DTfaN6GxUXYXBOqhw96jJAzqFIJ1rs0JgUDjMULuAIbiYSZkPDGouEq5HoQ<br/><br/>
+2014/29/01 00:43:57 : New device registration 355387050231218 | APA91bFGWbSvBH5QDnVfAGfd75Ejtbk4aBhq9mTEkjDuxJqHBe5i5w4XzyjiCd_W7x5FbgDmvB5QCAFld4zSWUgws8vjibrzqduNAyp1ba6LJ9gg6cqAihTeJvi8TrzPq3k1iKSscOLSqjbtWdmmTiZmtpL6q8yhHQ<br/><br/>
+2014/29/01 19:17:09 admin: Sponsor #8 BYJU Classes added<br/><br/>
+2014/29/01 19:22:07 admin: Sponsor #9 Ebay Inc added<br/><br/>
+2014/29/01 19:32:08 admin: Sponsor #10 SP Jain School of Global Management added<br/><br/>
+2014/29/01 19:34:21 admin: Sponsor #11 The Hindu added<br/><br/>
+2014/29/01 19:36:58 admin: Sponsor #12 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:02 admin: Sponsor #13 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:05 admin: Sponsor #14 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:09 admin: Sponsor #15 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:13 admin: Sponsor #16 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:18 admin: Sponsor #17 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:23 admin: Sponsor #18 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:27 admin: Sponsor #19 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:32 admin: Sponsor #20 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:35 admin: Sponsor #21 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:40 admin: Sponsor #22 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:37:43 admin: Sponsor #23 SAP Universitiy Alliances added<br/><br/>
+2014/29/01 19:43:53 admin: Sponsor #24 Nuffic Nesso India added<br/><br/>
+2014/29/01 19:44:48 admin: Sponsor #13 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:44:51 admin: Sponsor #14 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:44:54 admin: Sponsor #15 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:44:57 admin: Sponsor #16 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:44:59 admin: Sponsor #17 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:45:02 admin: Sponsor #18 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:45:05 admin: Sponsor #19 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:45:07 admin: Sponsor #20 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:45:10 admin: Sponsor #21 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:45:13 admin: Sponsor #22 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:45:16 admin: Sponsor #23 SAP Universitiy Alliances sent<br/><br/>
+2014/29/01 19:45:28 admin: Sponsor #24 Nuffic Nesso India sent<br/><br/>
+2014/29/01 19:47:18 admin: Sponsor #25 Nuffic Nesso India added<br/><br/>
+2014/29/01 19:50:27 admin: Sponsor #26 Scientech added<br/><br/>
+2014/29/01 19:53:35 admin: Sponsor #27 Adventz added<br/><br/>
+2014/29/01 19:55:25 admin: Sponsor #28 NSDL added<br/><br/>
+2014/29/01 19:57:44 admin: Sponsor #29 Wildcraft added<br/><br/>
+2014/29/01 19:59:53 admin: Sponsor #30 Total Project Solutions added<br/><br/>
+2014/29/01 20:02:15 admin: Sponsor #31 Kaysons Education added<br/><br/>
+2014/29/01 20:04:23 admin: Sponsor #32 Bluedart added<br/><br/>
+2014/29/01 20:06:26 admin: Sponsor #33 Thinklayer added<br/><br/>
+2014/29/01 20:10:01 admin: Sponsor #34 BBC Knowledge Magazine added<br/><br/>
+2014/29/01 20:12:30 admin: Sponsor #35 Putzmeister added<br/><br/>
+2014/29/01 20:15:30 admin: Sponsor #36 Business Economics added<br/><br/>
+2014/29/01 20:17:42 admin: Sponsor #37 EXHIBIT added<br/><br/>
+2014/29/01 20:22:01 admin: Sponsor #38 Engineering Review added<br/><br/>
+2014/29/01 20:24:14 admin: Sponsor #39 Dalal Street added<br/><br/>
+2014/29/01 20:27:55 admin: Sponsor #40 Electronicsforu added<br/><br/>
+2014/29/01 20:30:10 admin: Sponsor #41 Thetechy.com added<br/><br/>
+2014/29/01 20:32:55 admin: Sponsor #42 Digit Magazine added<br/><br/>
+2014/29/01 20:34:45 admin: Sponsor #43 Goa Science Center added<br/><br/>
+2014/30/01 11:05:52 : New device registration 358239055241725 | APA91bG023Ar6-CyvSxIL-mbIBFcV_JztrdCWttelgg6rPrEGYzT7sARmvV3JSf52K0H3AkI1H_1sknV_rUzyQOmy_UmOvEZGnIdbrxgAo3bhFewzpcH3rlyln63r6GNKKCGl3zmS1dv9wSaEzyXqIXLpl0EaenwmQ<br/><br/>
+2014/30/01 20:07:08 : New device registration c16073810600021 | APA91bEU9Efqh-IQmormVV6S0lOldrlVp74v5Y9J1q1MrkrPyrjjEGoomjTfMEgyFs16bJfFrV7Yx2e-V1nWnJD4avmf7elET-CySgyhxDYgYe74bsID-blZa5OicVS_Oqlu7F-HciDAK_bWo-d80yS4ekHVNzsf3w<br/><br/>
+2014/31/01 03:35:38 : New device registration 357484041970588 | APA91bHtulrFb86IMUZtiZK9eRn7biPVfU7aHpMVlONWn6ayl2NN6bghmfB2DV7Pv6myl1IMt1qAXDmqIypovpMBrqCTHLuUl7i2Ij6K3fx1-56WcwE_sAl-JsJBINjPSswTgKlGkL1tU3f0umVoF-5kKjl79ZYMRw<br/><br/>
+2014/31/01 19:16:12 : New device registration 353809057055821 | APA91bEUu__Vnl00JUYMAEATdZig43QKwMj73dQigofvWoMW4YFMYRU8JtFCQ3OhEo6B9SIw6nnIJYBoYoTwIticAx1Q0mYAXf00A4XrmiMYmcozzXLULopw2oA7-hvJ9OfJjVKEtjjcT6KY_AZvPH9iF9WQk-MObw<br/><br/>
+2014/31/01 20:11:54 : New device registration 354655050900375 | APA91bFUOSawsaIWpVvEHkH-K8r2La3N3rZPw_Bp9bP0g_l7-1Yt9be0VmzOBeFvm9W04_S8KJMRtW0M5HTMK7BwuXZVnotJHofR8q4MXnPQDtO7TCjjxznNl0L6Y31E4Wfi9-50XyHccVksbn7dGT8AZe32dkV_Wg<br/><br/>
+2014/31/01 21:45:25 : New device registration 352795053991013 | APA91bG_N22NJ0mOPtad8pR2vlNWlE6K5erSsPtB0_KZTCfb5R8tWvqmXLpg__W5ZpC3emoEmum-OCBgM1oySZaQ9Ek715gw1Eaqkh8OhE5B8dU4HMHVY2ELU2J_qXXK2Dl6U5tCsH2OyLEvz8rhLcVNvSGr1uLp9A<br/><br/>
+2014/01/02 09:23:28 : New device registration 355472053704070 | APA91bGLrHF_Es_wNjonR1S5IGTPXgneI5QPFJaIfEKnSW1HaURmoXVDmba65WmA-lmLroj8BAbu-Fy3k7vui13Snirt27rzwtlKvWpLZC8Sj0OtGL8Wt1C_IXe7Lzz8w95uca4dH-HA009FXc_jRVeB7d2UHc3i0w<br/><br/>
+2014/01/02 19:40:07 : New device registration 911310451436779 | APA91bGMjOLV5AAv9NoMxE-Nv6MrIBdbyFHT4vPd0CMYxSY3jSazd-5zMdoZOLJ6RH2oxukYFVkQtj0mILV3hNsGMC0XVKhsJaqbJ0b3osZf23HwCNuggkmtBCFrIzy07-suwewXwp9ChjChC_85dG_TxVvArMOFoQ<br/><br/>
+2014/01/02 22:12:20 : New device registration 049a0df9 | APA91bGpEb_X4Q-J9WbnPCO4HAYLXoWQfGJKhp55eB-3N4DJe1CEqIQACXTWG6486I2sgEVyI9gZa942qiPXsXudD-8Q4jbdKwwuuihP-bqXuF64TvDeETxrPAImCD2zDPWI7TlwYdpuYk2BHAvv3WaC2B0rqgxjRg<br/><br/>
+2014/01/02 22:19:34 : New device registration 352795053991013 | APA91bHrevIXnsOhOvZeFu1nt2o75642R5wAAmF-6rMgKbH3fPBxBacmhlkThe6Z5iu5n1R0Wqjyj9ou9EFi3M8oUbrvWK57czL6Pz1aVBXbgbjJRb0JZsi78HWNTiEjZdnwJCNioV71vafh0yb7D4lQ7-xnWSCLXA<br/><br/>
+2014/01/02 22:33:49 : New device registration 049a0df9 | APA91bGpEb_X4Q-J9WbnPCO4HAYLXoWQfGJKhp55eB-3N4DJe1CEqIQACXTWG6486I2sgEVyI9gZa942qiPXsXudD-8Q4jbdKwwuuihP-bqXuF64TvDeETxrPAImCD2zDPWI7TlwYdpuYk2BHAvv3WaC2B0rqgxjRg<br/><br/>
+2014/01/02 22:56:24 : New device registration 352795053991013 | APA91bE2NR1JTVKy20M4AWNhMzkjjk--NwSw7L-EJpy26Mjjk-txQVfU3ojNpTl9Gv6AWD6U84BYS9Ldg4FW_YURRqEeydWJIAW3voLY1x4emXge62XlzW2H1m4W4Q0LZyHqPlQ2nepURsRpZuAwAXHCAUaW63QGog<br/><br/>
+2014/01/02 23:07:40 : New device registration 352795053991013 | APA91bGUcfILjjAP-x00dAvyRkz-EiHLArow83GNrrWm_8T9SzI7FCo5rKBOqzpGLBpqHAlAdp1Sx7SHthN7Y-y5xd_G5cn4Csi5Fk07g3L0I0z5-0mVgfPY5bUgXA_Rva124ixeWjASAcxOM8Q52rysdIyjBFAgrQ<br/><br/>
+2014/01/02 23:10:59 : New device registration 352795053991013 | APA91bGUcfILjjAP-x00dAvyRkz-EiHLArow83GNrrWm_8T9SzI7FCo5rKBOqzpGLBpqHAlAdp1Sx7SHthN7Y-y5xd_G5cn4Csi5Fk07g3L0I0z5-0mVgfPY5bUgXA_Rva124ixeWjASAcxOM8Q52rysdIyjBFAgrQ<br/><br/>
+2014/01/02 23:13:52 admin: Event Matka venue updated to Computer Centre<br/><br/>
+2014/01/02 23:58:49 : New device registration 352265053757681 | APA91bHLToRHGjWTizq7xkJsJwbn79s1Z_mQ9MFLnAqBmxfNaVeECrvOmo7wOXoEqerP3pLeBEAafzanah8IoXOG4bcS4MBe7A3g7cYB1CriGGgft3pvUYQxyX1JyN-M4GtlKB27xj39fc41CwfHZSfhwA3XCGWVkw<br/><br/>
+2014/02/02 01:15:44 : New device registration 355666051917432 | APA91bHX4v1uej3Jj8DI4hFnUzz1OKd96OHo9kH5qljtxSWjl9WtLQSxh0lfJ45AjDXk8nxtXhouwrRQKccTJjjHq4XGA0dDmxYOMxXUnkET7nZ7mliWh12YH40VA0W0atOxbvAuuwT2UQC_NboSMSjqRfzvKyb7uw<br/><br/>
+2014/02/02 01:16:00 : New device registration 359616046390027 | APA91bEHRXfcJVMbu3DsomGKtImADq5MCIxf_WDzBz41OtJWUIwDf9vDpgZOBXJAzcqzLlEQ6hxN5IcPyrN1fICfcb3aGTmMjCxTCpvH7heQKhDmsZLmkb2gykffRBdHWptDmqFdp2pmT8LIpxZXCj0YXiuLxDUiXw<br/><br/>
+2014/02/02 01:39:21 : New device registration 356262056545219 | APA91bHMXpDvO20KPafrzFiXCin58R0pn8eDdUnGaX_GgIaSylyS_aQqHYhL7vsy10FYIIsQqkqjPIVRI_56kmua-FMteAoFLryaWXinEepIuH2Px_7k4ZtFR7Q22t7V0l__KHl-bNZ7bVyyWaC1p7RXkykA_y-P_Q<br/><br/>
+2014/02/02 01:43:13 : New device registration 358506044396863 | APA91bGOSW8fTnehuZR6K4Qv777ZdzzUKHxsVY5sV6sI0zNE4g5oZrh73q1pajLXMSzjHvPzR1JZcOyS6JUMZb1FsYspYXmlFcVfERGYMSA-XDVRLONYzzKmWlE5_Uh-A_R5quFD1_FICyCSqKl6RjyomW_e1SIcDQ<br/><br/>
+2014/02/02 01:57:27 : New device registration 355810054785178 | APA91bH6ShF6FfGEfxKwOpYsGzd7CTg-ElM8eARA42_Jx351YcOrx5uI7yfZ6BTMMUYaw-TEeNnyGZXktNAakDEEjloLZbesfg5pUfZo07b-r98bXGcEtQ5RoxtprPWW0SLfXaeIgTF1q5sOXxS3JbXcWptPzA6z_Q<br/><br/>
+2014/02/02 02:26:30 : New device registration 358239050523184 | APA91bELJYbswGXXrc_ByondZd9Bm5PU48yJM2EsRZHy2vkVKoi8sbBZm5j7wZo8E_bZay5HjrZqh0DpiYzkmZfEh9-sxwa7hV44Bqkfmm7zI_j3hqEc7zywS4YBvNV2j2hjH0_JaF4MH_HMc7kXGpygOSisIiavRA<br/><br/>
+2014/02/02 02:42:27 : New device registration 353567052966034 | APA91bHZAcvz0jsQpNbwW3mOhwCqH-ZM5L15MFPaB-N3Fuf5126V7jvgsMxQ4TPrLSTDkE_XxS8ZhgCPtMZLjv_7lsuGQOHz5TuetUlDbnUH-SeE7MV8cxfrzI9wxd_AevFkA3n2sNLXjaJxlX81wGZ4cvoA2zf9Vw<br/><br/>
+2014/02/02 03:07:51 : New device registration 359090042961423 | APA91bFHmgfMRv4qdXMKjEAeHMcDgtfM4WH72A0In8Ua18cPcT_LTVhYsHORAfxzBs6E7O83UNLC0fupXaPrNGjyZFYCB5hO06hUf9xUfs2t-250ilWmz-rQoKinYaZ3cU58Y_0Xt19b_bOcGC63eHBDPdyouERmyw<br/><br/>
+2014/02/02 04:31:41 : New device registration 911239252323086 | APA91bHH4fkUvwkvJLUUJ02AqPXSVO4llCQyZ6BtEhaRJWKJuu53hdA4Q8oGKhR6fiEuyfePiZBrGbjuf3SFVBS712gRGh7ZZ8c53KeyHvyohYAnGPOTNd1fyQ5b3kh926CTGtaPJIX_1GCmcWVIrsOhHhFiHA8uvg<br/><br/>
+2014/02/02 04:40:16 : New device registration 358240058506593 | APA91bFMAHeBhODeMT6XCdgQShjsdk84dEmQu6ieM83W8m-p9XPhZCz9085xj5SyEEN1JmP-qrXqHlOIx6hHSeuzcB9132IHj2U5WYCxbtX_8HpyetxFhYYaCh-cfOogMRFCgEr7rxpC0vOtZ_fNldvlVzVvG3PToA<br/><br/>
+2014/02/02 05:09:18 : New device registration 357654051907619 | APA91bH8DCI_SNLv0pozBBAKz_rLh1_gUQacuoNdKMPvglN2wtkGpWJtear2MbDvnTFEtHry7z1EvpyiaL6jTDuafx2FwG4_mbmElCPtzCkLUrZTF2nlFNVLQ1Tkt2hIrqVnbaWRZkCeuN-xSE6VUeYNmUdhVztUKw<br/><br/>
+2014/02/02 06:50:06 : New device registration 911239256648769 | APA91bHfcxpm3HH5sgu3KJuw2fQg7WDs0TUTRaGX5gA38VPLM65LWUDmcS-AemFyRZD-FqUg5mwmQq3dBRPRQ0A11m_1E8wMqAzLGQ1AlI__XJaqR0Hfh0qe39dALllmyDl60wJ2C5IDrMt8EEmL9UH8-ZGHMwBaLQ<br/><br/>
+2014/02/02 09:20:31 : New device registration 911314103732882 | APA91bFjQmW9xcckbtlO72cRgNWfN2FWxYjL0CwQ_jCD2sRUXetgH5eHefEGYuauPYLpBeLsh-ydjz4DR-eQf5JtE6UFG7u-NkIM5FJjnZhOqBLrJ_dDQg-rTG139h9IzzkvkAdJblj0MYllPVhftws4ie1KYD2fhA<br/><br/>
+2014/02/02 09:31:12 : New device registration 357196053881269 | APA91bE9NRdt-1Cyz36qD8Z7yrR7v5g-vLQNYOXpEZcwR_HE0qvHukpeVc0SENgXR6TjaxCOehFLGGO9O3sdLekXDsO0Q-9ujIZIlTKjYwK98VkvdJhrZGzJ7dc_OhA1YqT5FuyY2a45mxQCMPr7xTRgYujZ9UbqXg<br/><br/>
+2014/02/02 10:10:03 : New device registration 352615050560076 | APA91bGN0Uqiz7uyNvb7j5yNxaYqZqU1dTlZrGCcCiInJMwKvFXGyVkL69gtongcKFl-CrwZll9CrEnacQhV7b196Ss_2t6U4g6sbFXQX1gGLymaGc0d9P7vw99Wl-ezYWTIYkSEDTQVv8slL_PzkZobVawiH9peMA<br/><br/>
+2014/02/02 11:41:29 : New device registration 356631050051442 | APA91bEs2CzAAzc2w4kIGH0etukWlhV7KyEtikoEHOCUPfNFgsuCkcYnxTRt5TnqR-zwUxaRZGLFwUbw96ujyP4tQXOQ8jwT6b35Wf3UyPCT-X2c3zMDseDCy-hX2QG-BOAnqGAfzk7IhstJRZSSbzsmGs_t0SVPPQ<br/><br/>
+2014/02/02 11:42:57 : New device registration 353020051239714 | APA91bFE1PaR4tyExKute3NaUebhjcUykWEgJP7TayKKgzjcbHT6JN6NQp2Rpq9UnszI8RC0zMOpxQDBg9LvFSwe6FK6YJBu3XsOYWYwuSQX7ERhw0Kb8IrXjsodFwpyxzrE4A6z96YSubRM7PkxXpMWu_7z4TTBmg<br/><br/>
+2014/02/02 11:45:23 : New device registration 353020051239714 | APA91bFE1PaR4tyExKute3NaUebhjcUykWEgJP7TayKKgzjcbHT6JN6NQp2Rpq9UnszI8RC0zMOpxQDBg9LvFSwe6FK6YJBu3XsOYWYwuSQX7ERhw0Kb8IrXjsodFwpyxzrE4A6z96YSubRM7PkxXpMWu_7z4TTBmg<br/><br/>
+2014/02/02 12:14:53 : New device registration 357196053242249 | APA91bHh2QRnXliCEz6qdBD3lALaM_KvEuW-nOdxkQ59Q31DTHCvDdvUddj4CCDTB04V0c5cXkX2fK7xQC9MIpPZdA6QWB3Ljz4z9xOmjQ1zeTW-e723rBJiYqLw38sVURd79O357TYLF5PNjcVrVD6PQYYrkMoUQA<br/><br/>
+2014/02/02 12:15:05 : New device registration 355136053049022 | APA91bHDm6vvOApRTl88h19DPRY0JFdl9SuMUP8x3Bnv_9fMuPaWBmXCcF2kZxElN7-KOw1IRzSUzNwjE0YYWnvDClIzONzB1rl-eRKygPpw7QZEltnK-_PNysMeGAKelNNzdYxNBoAR5535esN9DhN0TVZ83RtBfw<br/><br/>
+2014/02/02 13:06:40 : New device registration 353743053158794 | APA91bED0fgH8ZqOpn8fsf9pGp1Hw0u88YZ9S1OIQ1IXq5Kuc_g3J0WkRHcnLPwy2E_YA0sAhqNF-8Vo_nHIFODq4qIKyWQOS4aa24-dxehHKX3IVHaZddu8q3qdAQ6CnDQH6jdu26rtaGhfbxFSLe0Y7fUBh5t3cA<br/><br/>
+2014/02/02 13:45:49 : New device registration 357091054496599 | APA91bE6JFVpSucQcWyP0PPdJMX_iCySvaj4m5lrmRFHqR-PhFwL-8iRdoQ-qZpIcm133jNjhFby8F8S01FDnIeF6jCZJNrO5xQt3TNpxNShRxBSaSgFBEXWAVtmW8rzSlFqJYNn9bgVWMiAbrv-0yYENRf-vq3hHQ<br/><br/>
+2014/02/02 14:39:14 : New device registration 355810050634313 | APA91bG1tgDZxduq-3DoYvIOncXqoiAhomxzBSHhEjA7D7c2CFjSpBn3KXNQybL-Zi1q3T-shHcrjs6dABQEgjKMi-hDD5B7YX0SqmsP1Niqmy8eYABAG1bm6IShWdrfHL6CauYc2XtjA4byujtgW_QPHFzLgfn_3w<br/><br/>
+2014/02/02 15:33:38 : New device registration 354905054908126 | APA91bFb3MJNPC_UPjIzpcSDr193OssUJAdcRvnEjtBx8IlbmWknPFWFdjoLIdOf1tewfZ2SahI33_E1akfmL0HNN5RzmtKhbsEsW0O80EeEPCrH7JWUOceMfxQQvBtHr32CX7FVuYYIvk64404-HoOCz6z-nlzXIw<br/><br/>
+2014/02/02 15:44:16 : New device registration 356141050373580 | APA91bHGRjPiyRXvljoEeYHqoqAG7Yv7fvw_MTuwgGXeXlgrrdxJzZZKubT5ePkLuMERvJdRC8cNeiOclg5_hxamhEz_8eSq8fvWkGFIeRT5UOged0-KwHwJJuruJsFhMRgpwD0x0ki7t4QobZTwE4o6ZgF0tkcHZg<br/><br/>
+2014/02/02 16:27:49 : New device registration 357091051445862 | APA91bFf69MB2o1XLKIkCdXDB9TgIPLnIxCpUkL6xu6PV7ou2-uaLP1-CIuVn4tKyvl2_F9CA6IEL-i8Fj-ghpRZsAw_jeJFlQBXkxPpvO6lJ4falUEtkUMp8ONXZta_UkaUxNgUipIeb7aPU08iBMH4Z0nh4Z4UoA<br/><br/>
+2014/02/02 17:20:06 : New device registration 911307902062220 | APA91bEiindPcOAmgaCVzfVky9hy_dVfvklD_DuEroRvtf1yj588KPQwDea8iDTyDaCPw5ZdWkKRH2rcCbReNiF2ucwD5pSPVLXEbpktybcxbjdK6SdoPNN02DixDFaEQUcJ0-XfCh34qvJZ3qPfCU_3p0g9ZEa08Q<br/><br/>
+2014/02/02 18:31:34 : New device registration 353722059320038 | APA91bGhSl4_Ge2wtKnpaRklbz58WQpyp1iy45npJC4vh0Gx_JntaSLkvkVypdjr2VWWiBGJf9ordsngj3n20Rrw_9L6oIBJT7ALeit9y_pk9zJ5o75PcXmxSU5SqkBm7JL5hn8gCkEzKkWKpp4tyT1lB9b-GyqzLA<br/><br/>
+2014/02/02 19:06:23 : New device registration 356605051402986 | APA91bGyzpgZn37bFqygqYA9Nq4j1IWVuJD-OnN_5AnrT2YZxZyOKcENiC7rIQKOA6lJsJdqb0T4pQMJ7Ft2gPxFNilu90cptPUbyVVEcf5z0AxluCb9PQBM2rysvRbPh9vKYTtDSOZr8m7wUBeSofuC0hc6Xo9Uaw<br/><br/>
+2014/02/02 19:09:29 : New device registration 357196053877721 | APA91bExWNcwsnCXuqv4KbRvVY5fPEY3tyDfyPz95RoPhrNjxzXPwLmsLuFzBpPCy29KHvnodDUr1aJ5nwMZw__N8uTFKrgl0yI6WYOtmWPUoOLRW4lJu43Bg9T6_yI44xRcIO64eOziVpvh60gnUlB7bbG_AdmBqg<br/><br/>
+2014/02/02 19:47:11 : New device registration 353854051822115 | APA91bHlUw7Vh21yQY3tNyfaFVO8HyUS6aUHQkpms-gIXERmEA0jSsiQSe1WuaBw0Wbibn47oM4VnX3KMfq2IievUjcQ6_4zrtxB4A4NUdICBRrHdQI2fKZxfsjr_IyXIB50njt-GhNuOLLAhChWSVK2eoPnguzGgA<br/><br/>
+2014/02/02 20:34:37 : New device registration 358506044396863 | APA91bGOSW8fTnehuZR6K4Qv777ZdzzUKHxsVY5sV6sI0zNE4g5oZrh73q1pajLXMSzjHvPzR1JZcOyS6JUMZb1FsYspYXmlFcVfERGYMSA-XDVRLONYzzKmWlE5_Uh-A_R5quFD1_FICyCSqKl6RjyomW_e1SIcDQ<br/><br/>
+2014/02/02 22:59:32 : New device registration 354386057282225 | APA91bH2PpDVgfnLfqOri9kHHvbSmEhhy5pXn9inC6xuGOW2xhIXTIQinp-b0J51uyCD1s3G-SgTpF4nC5RhwcuHrPjuu9vqIacx5YG8IZDzbchK1S5KbOTAfcWJFjkoQNM_fZabzzpA06cUHHEpNsIAYq5ynNHdMQ<br/><br/>
+2014/02/02 23:02:48 : New device registration 358870052590985 | APA91bFK9JoXxJ-C42Z2VdiCm4K86cXqK-DzMKN5zvbocP0oePtTv22UQTCPH3RoEGC694ltrL86zZLV1yt52GV4nJZ2t7X49uVPTYWvxeJxUCH_XZ155ejrgk0e52GRBMaeEDwH5aBth59xiofrBiHLpvN2pKcG7Q<br/><br/>
+2014/02/02 23:41:03 : New device registration 049a0df9 | APA91bGpEb_X4Q-J9WbnPCO4HAYLXoWQfGJKhp55eB-3N4DJe1CEqIQACXTWG6486I2sgEVyI9gZa942qiPXsXudD-8Q4jbdKwwuuihP-bqXuF64TvDeETxrPAImCD2zDPWI7TlwYdpuYk2BHAvv3WaC2B0rqgxjRg<br/><br/>
+2014/03/02 00:30:02 : New device registration 43005afab4a3a063 | APA91bG08Z62F6eyvVJzIKO5OlZdY11UK5R_P39QehdxTg0ZsVuUv4WpDAgQuIHFlkstLUSuLQMLO9GPjMzsvDTRNQEd5imwGBYDadeFe_9KB1_VmNuW-niyloUJN8zJPyyySQgsmdE5Hse15GQgp0JS2Tj1fu-4Qw<br/><br/>
+2014/03/02 01:00:31 : New device registration 352615050511244 | APA91bGVvJK_MpVr0bBR6fU7yMeFH305l-NfZD4CHx4faEgYJz-zYEVSPDY26v4vtovt9hR2vhFeDet2Ix22lNwMe-N7oUcvERmivfSjFzRZRycpv6gMU4ty5UWfTu2fFuFRBVmp3TLKYBRGHI_oAbHGSJFiRh8ZZA<br/><br/>
+2014/03/02 07:21:45 : New device registration 356637058856856 | APA91bHV2t1E-w8_hl3HbI38avSlS0XyfqyTY1jxdByLHQbZ95PUZq5qG2zsYFyybEfyPorpJwmlXUo4EbWjURkGiGUIhkgQQnUm6dySrc2QPXUqThdtQctcwyuIS4gZPLphpD8c90909J_SeTSUl18WP3VJtP2lQw<br/><br/>
+2014/03/02 09:53:56 : New device registration 911239258311234 | APA91bGV3KNS2HQVKc9jhnaFOF09GBm-HUeaz7MrCpHMmRHAfEcG7pnDvhqqFOabYEIXdhQtra3O7-3kwDBmzCE6ccmMPmjYnHd4o74l3vCbWaGL8Fr4gOd7yz7dUywD4j88w8cUvJBPvRffp4_ZH4jcvXcy74oTFw<br/><br/>
+2014/03/02 09:54:48 : New device registration 356150050023962 | APA91bEQtcIxfWtDoOi-fMRwfd7z1o4qUU4LP2KrRiaE6fLj_cC_RdQyR5wbgGMTntsSBxrkWjEGtF0mOVsPHgiA2RGncpCkr3M1Y8IE8CL-utO5ukxXjohj7qsa4vkqL4OBJ_hYmdKU5-gYRz3qQMbWkMuxB4NU1g<br/><br/>
+2014/03/02 11:09:07 : New device registration 355387050231218 | APA91bFGWbSvBH5QDnVfAGfd75Ejtbk4aBhq9mTEkjDuxJqHBe5i5w4XzyjiCd_W7x5FbgDmvB5QCAFld4zSWUgws8vjibrzqduNAyp1ba6LJ9gg6cqAihTeJvi8TrzPq3k1iKSscOLSqjbtWdmmTiZmtpL6q8yhHQ<br/><br/>
+2014/03/02 11:48:25 : New device registration 355136054504959 | APA91bE9wJkagmKnC_2J9jZwv7j6O6nHLJl2jo3eqwBoHSWzJ7ITtitWyekPkKTXabuLsfHbv6KPuYsvLSv1OoPoeKzIpZvhtq7-ZUxTfUu0IOjqnFNek2p35js51Mhv7yDp0P-J5UVuYFjWEQ6mqyLU7IEAVLBhoQ<br/><br/>
+2014/03/02 12:59:50 : New device registration 356936059205455 | APA91bHeU6eDRQ_l1sC5HGkVax7Cr58QQ7UD-Yu4cOO9w1cO8A05qSDjaIGR4hEYSMDG9RyFLI7BacX4mJya0iR-IgSkOZRgUBotiFYfUS6-m7iCliOTJXbPJiiFBWr-oEF1HQpdP01CzmXgR27GRX8pvf_9jdBGaw<br/><br/>
+2014/03/02 13:00:24 : New device registration 356936059205455 | APA91bHeU6eDRQ_l1sC5HGkVax7Cr58QQ7UD-Yu4cOO9w1cO8A05qSDjaIGR4hEYSMDG9RyFLI7BacX4mJya0iR-IgSkOZRgUBotiFYfUS6-m7iCliOTJXbPJiiFBWr-oEF1HQpdP01CzmXgR27GRX8pvf_9jdBGaw<br/><br/>
+2014/03/02 13:08:30 : New device registration 911304250018847 | APA91bGOd3774XeMY2zGpq5Rrk0nY5CrslEBYJQpmxzgT9ufdl_76K2PrzpHvG7i3CFa3SgQaZVC0GKTcsxQWBw6hnWRobWnZVqzrRwUOP-ZVRYCPPmpudGhUhbRFzfpI9J5LN2_fc7w2z1AdM6pg-ZWh_O7jasKcg<br/><br/>
+2014/03/02 13:14:10 : New device registration 356489057771854 | APA91bHFfDEQVGmJEu7DPWpSqr7X6Vqmp5fEW3rHuZg02d747dFSBlJxLMqe7jyaTm_EaHKH2gzhNHnE1mtA3OrDaU02FqfSFjMHmq-FXwRLj4jxIJ_WhZa86aICNNnT4tleEVlS598rIeMZNa859yLLYvI3atWQeg<br/><br/>
+2014/03/02 15:19:54 : New device registration 353719052994652 | APA91bHzEf8S1iIgvGmRDoosfRW5PPsFJFpYTvP_GQKYW6ys4mMkBYjW2DKRh--H8vsc-uvqpqfezSfHsv4kaZW9mPMHzN6UlCN2qRI5bX89DALg0TZvxpDmPTejwRpXcasmr1w0WnbSSil3H0MsGFiRr91wCccNQQ<br/><br/>
+2014/03/02 15:47:30 : New device registration 358239055241725 | APA91bG023Ar6-CyvSxIL-mbIBFcV_JztrdCWttelgg6rPrEGYzT7sARmvV3JSf52K0H3AkI1H_1sknV_rUzyQOmy_UmOvEZGnIdbrxgAo3bhFewzpcH3rlyln63r6GNKKCGl3zmS1dv9wSaEzyXqIXLpl0EaenwmQ<br/><br/>
+2014/03/02 16:53:13 : New device registration 356605050096821 | APA91bEstblZQXkvI4rx44N01xCbfionR_TO4qo6qMqlHjD0R0luhEGK0Oe9TmZhHx7W0OXX9f7gT4Xg9D2WqbbO0uA7bE47qxlkrFyF3zuOeHRUdsDyKqqkhj-o_EcdpFJJodS76fCq1ksYzBPuZj9Uf-Bm7FSdCA<br/><br/>
+2014/03/02 17:32:51 : New device registration 911305350696598 | APA91bHGrjq0oGog4FjlxytVw6kp0H8PTBTAHbgao2T6s0v3VxLjIRHSkbpve5qYWYF1cA8xWAMGZhGYNhIa17MgZcy-LcWJN4hxZdb1jN5e3YT-Chf-jxuY0beYy8_Gkui2AdYDPwpQJMrYP0EhLm4OgjDoHT006Q<br/><br/>
+2014/03/02 18:44:34 : New device registration 356489053817107 | APA91bELNDMdhFqdLw_wNLnILB1p69JSju0N5UGNSAcrDNHrxWSLAwtyRAG75mE931mOFb-i5seAMg-Oa6vUPE6y0tW_wAPdl3WtegiIf7U5UrtGytwlr75h8jsZvwduZ_Wt_s7SjcV959GFsJ5FPiaKQ624JqatDQ<br/><br/>
+2014/03/02 18:47:39 : New device registration 911307901694544 | APA91bEntSm-hScHh2zGDrd8FeFN3PvFwojdRyqwwar8w8euAucgVF8z02Vy50Wn-t5STvJeGSD0eV54_2OTs-6PdnCmQPeKwc3UKoz8RKF-SScdgArT2oGo8lusvOIlpsUVqdRO-2vXIzi5xXaYetQoPAqtRGHGCA<br/><br/>
+2014/03/02 23:09:26 : New device registration 356605051471585 | APA91bG779vcV4XvrQ04govrkQIxS78adhTIYTPnIWGny_eojszC5iHDkOwam4HsUYi7xkfV9Vhz8-lyGPqQ4Sm-OpWfwH_xoOHb0vO_zq2_0WtCODqBv0BoNvwF2akhgpoIFy6ovfQcA3xAHo7miDapxxl1Zzov2A<br/><br/>
+2014/04/02 01:17:55 : New device registration 355803057176578 | APA91bEgJL4506Sq8XUH_tuTN5ikGgJU7dqaiUm90uhhj3gvg5rk97Ogtl6v34OK0aYygZNOIwYLLEqQ9USY_Gip3qVJXawtS2Bg-jal5efKowCPKVKDMJxMVjbsbf3Xz6XhGKVSTqbtA06scZJ4-NDbpj6Ss3f5ew<br/><br/>
+2014/04/02 06:15:27 : New device registration 354655054756286 | APA91bG38IuirIJapYcsGtfsK1qfYmareyfRtsMcI3D_hkz3j5_0YDbz4USpjbAfdV1x1lkXTB84LQty4E0EMYMOiD5ScUu8FgOlX8_nu3AYSTzctQG9HRptiCK2IrhwPigX-MOI_74vXULsM0T_uEMo-Opw-833FQ<br/><br/>
+2014/04/02 10:18:41 : New device registration 352638051645225 | APA91bGNHN2hI4A5oEExIYBK-1ZSeBKb0cr1WSpdipkex8wLseWxEnW8hTsvw5IhaKJp9bUGYYEzWj13WtlckDkyno9X7zr7LjzJyZhFg7C3qc-nO5PD_ZgakrmMy-h3P9Tm4p1YNbGp49uRFY63R2wnOSspSah4RQ<br/><br/>
+2014/04/02 10:29:19 : New device registration 356262054644766 | APA91bF8f3eTpfCvpfwRYidDHKMxCJhU3tzVxTD8v5quZGkkWxf737jaIBf0dYi2KjSzeG8xJGHWptc7ZZclWlIBhYQ511whuBQgxeUm_tW8S4ZG1bRc2Z_ERACP2FA7x5jrWtUL1CZZAseKG7_vfxxw7AuduRCoTA<br/><br/>
+2014/04/02 12:24:27 : New device registration 355810051082934 | APA91bGl8QJSt6q7gHUN9cwNWhlRrMScIe1szxSXGM4zBt6CQ8V8_fNwWiz6GYbTTkKU4giQk6gUVWkohyjHNwH8eIasjQXUZ2M-_g7RNhhZgnrAzxDORoO7fuPFMIFDd98e6cII-HavppM13S7eyJiuof9hNWOsWA<br/><br/>
+2014/04/02 16:34:11 : New device registration 352795053991013 | APA91bGUcfILjjAP-x00dAvyRkz-EiHLArow83GNrrWm_8T9SzI7FCo5rKBOqzpGLBpqHAlAdp1Sx7SHthN7Y-y5xd_G5cn4Csi5Fk07g3L0I0z5-0mVgfPY5bUgXA_Rva124ixeWjASAcxOM8Q52rysdIyjBFAgrQ<br/><br/>
+2014/04/02 17:32:45 : New device registration 353719052994652 | APA91bHzEf8S1iIgvGmRDoosfRW5PPsFJFpYTvP_GQKYW6ys4mMkBYjW2DKRh--H8vsc-uvqpqfezSfHsv4kaZW9mPMHzN6UlCN2qRI5bX89DALg0TZvxpDmPTejwRpXcasmr1w0WnbSSil3H0MsGFiRr91wCccNQQ<br/><br/>
+2014/04/02 17:53:26 : New device registration 356605054380684 | APA91bECD8R5QkNVtADIoD71c-HA20PpXmWdWx88gWtgOHPtg9FNI6uoY_AyJyPU9uyWhu7831183RmEbfvMp6zStImEsyb5ghLR5Kf0Rl28BxMcAgD84QzNk5LHR3AW8QKyp7G_RENbuWF1Vd2yKnPtHH-mN8YZNw<br/><br/>
+2014/05/02 01:57:02 : New device registration 357729053763846 | APA91bF4AJ8QWpeXi7PN9kRh2bK0X6YWj4THOgsbm40GQZi1MduFwIwm5gNSlNDDsTrUkOEP0DW8B-5AdgmR4M0JqG8t_psGoFUpw9rDE-XED3DLn3XwVeRaiqV7KPkO-abf2zh-MyFDRe7Vikc2S_084hqee3UJPg<br/><br/>
+2014/05/02 02:04:14 : New device registration 357196052718918 | APA91bFPwqz15422hCajY4jbkuIQtNOO-5V_fCJOtiwI_1Q5w3pQlVYcZlOWHchxyWMcBYIFjarrDe0beGXe-54BgPVx4NDq1EGOZ-ciMNZZZ9g2zeh22xkKEVEfER_y-wkD54WzcIU4PPDiYyMuUtnm169faZlm3w<br/><br/>
+2014/05/02 02:06:53 : New device registration 355299053339049 | APA91bG-1cgA4MwMgAHLFlaC_yqILWO5uqnmd-BAwsd6fsEBf-_jefs7EzKOWVsfcVBHkSj-icfdgztwfOguNhgErqLvv4zTFa4q69cx-kp262aZ3eUnQVmMwmqHf7m83VzYFUexY_wtn-vTgu2cbZfZsppd1PJIrQ<br/><br/>
+2014/05/02 09:30:34 : New device registration 353020051239714 | APA91bFE1PaR4tyExKute3NaUebhjcUykWEgJP7TayKKgzjcbHT6JN6NQp2Rpq9UnszI8RC0zMOpxQDBg9LvFSwe6FK6YJBu3XsOYWYwuSQX7ERhw0Kb8IrXjsodFwpyxzrE4A6z96YSubRM7PkxXpMWu_7z4TTBmg<br/><br/>
+2014/05/02 10:41:20 : New device registration 353596051845212 | APA91bEpx-54BZCT7dd2d4pLN3436lsegKQ_Q7cidkriNpizGa3YCNChPvlJL7mEI8-Mmh_oSF9DcRqALcPzOMQrGe5-qGJQWVSs03FW7VqqnGy6G3Cw_pYTcz0nsQfRCiLFc0l2FPWWBvKs0R4W3XE4ocoZCo_9lg<br/><br/>
+2014/05/02 11:39:05 : New device registration 862808021271757 | APA91bFm0luApspCUhS8b_ykR1-gNkCnPkSQAX0mcOA5KA6CUSSgxm_0-G0QB-eZyTC3Rsea39k4GnZCtJLe7jotnGyXup9x08juDhIt1HNv88fT-T0mg3WzbUk9ZY0mVPOvE8DH-rqDWtpEE7i05MZT9FgAay2hRA<br/><br/>
+2014/05/02 13:07:38 : New device registration 352638051645225 | APA91bGNHN2hI4A5oEExIYBK-1ZSeBKb0cr1WSpdipkex8wLseWxEnW8hTsvw5IhaKJp9bUGYYEzWj13WtlckDkyno9X7zr7LjzJyZhFg7C3qc-nO5PD_ZgakrmMy-h3P9Tm4p1YNbGp49uRFY63R2wnOSspSah4RQ<br/><br/>
+2014/05/02 15:11:31 : New device registration 911242350130130 | APA91bEEeA3ZSVfCbvfpCngDGlPqLMYPxglFXWhT76rTOwrc4zyObfeyuFwZ1D_FCHaGKk2ZErmJky40C7sx7e2nUhBzjbR0QLk7dfrtKsdSAqQ52LrMtTd4zVkcmQ-HgrN4Zz6Sl2CQgtm3WidSWRFU3Go7cxcDcQ<br/><br/>
+2014/05/02 17:59:32 : New device registration 352167054053989 | APA91bF_QXbUvjOCMuJInt1MYNN9zDTUwpRX6LraFDfkzCYM3nQXtbXgokjRADyqv_BIdKxwDd-2DhgLEygo0LIZzfV8JGZjqbt6NsDJ04i21u_sl-jSnAVgpSiJgRFdtLDjYVD4xDh75jqm1kTBVPKZ6_idlo5vEA<br/><br/>
+2014/05/02 18:11:05 : New device registration 911307901138112 | APA91bHslTAivbvnoEsq9QR9P1ZdFCsWTzM1mHj_Jurwj4WvnGmzhYFq5kU1EvFWYKBeSIh4ZMhnW9Jy76beaXvMS6q14J1ICsgGVM0eBCT_-GfsUUVdRH6XnTpFT6RAX-T_IbKFe8x7cwyB_ZwnLb6_cg-gRhgUfA<br/><br/>
+2014/05/02 22:41:07 : New device registration 015d456d5e07fa12 | APA91bE8Ao9skwhk7sIaD4Ys9LoA6jWmknniwGPHlSMLLPLCZCzOtwsEqu2s-Lb7_Vvkoqc6R8eOvcjBf1Q-a7ODRkTuW3lQw66nT05k8ywYT_d0a6EHMxZiSwYoLnnP_I2fwxn3DwzOGN77qKGeGkFjfBXpQtPsBQ<br/><br/>
+2014/06/02 03:45:14 : New device registration 351869051782939 | APA91bGRjyUczcU3NAyEoQzDHz1XtuLOe7OeF7x1Lu4VwSsy-0VhyewTi2q03CyBVLt1mOZInqs5xhcTjZ9vjfki8pCF6nkT9kWkEH_FsPHRJrViZ8906sMyZyqUYcW2Luya3JGo12NSCoPTEV9r4FgWwRUW_DmMqw<br/><br/>
+2014/06/02 06:18:10 : New device registration 351565055095936 | APA91bFUVAOwjenNYEdreWe5drMdnJXaiKfNIB_OtKfA-3h_j19gG8_bCaTft5Wwh2hqXOQm_XPpfnHjtCke2aObdaLSwlDEr_bEjhn0jGzvu1hytXipnD8K1iiPkV7zlsicQxwVNExFK9oM2WWpAv7vzBPLJ09DSQ<br/><br/>
+2014/06/02 08:43:52 : New device registration 357865052668790 | APA91bFAk7st2kkRyWA3WDnr1wi6WlNXCDTdercEgtw6WLTTyrM3Z17aQkzqzbjwuwJEAf_cZo1F8yujajAflo24dzpDcbi3gap7M0lEArzwTeAZncnQiTvZxgpxXU3Ytu43CV7RrlgW9i_fY22KgBcFQuu2T7iH4Q<br/><br/>
+2014/06/02 08:56:10 : New device registration 355666051917432 | APA91bHX4v1uej3Jj8DI4hFnUzz1OKd96OHo9kH5qljtxSWjl9WtLQSxh0lfJ45AjDXk8nxtXhouwrRQKccTJjjHq4XGA0dDmxYOMxXUnkET7nZ7mliWh12YH40VA0W0atOxbvAuuwT2UQC_NboSMSjqRfzvKyb7uw<br/><br/>
+2014/06/02 10:23:43 : New device registration 911256600024380 | APA91bFPTW6_Z_1BYzXNTLrCwgNSOIwlV7i8z3PAaJoxfRIKQn7l9R2FTCfYgAiwMiHkPy4GTG0JjRJBFE7t2dYqNuhad6Kx0xyA6hIeCWWYIyB2i61LOu-ctBetOTlFjkRoRXW2miCr8TGkWKNF1CKNgvShuJ7v8Q<br/><br/>
+2014/06/02 10:28:44 : New device registration 354905056229430 | APA91bF8xW_80H-zDpxMlucBpaMHfBkxHkC6KVld-DS_sLSLYb2qhZj8DubhN8a-OGsQ9_FujUegfbeqS76_VvmcdkV4UXEFJK3DqG_c_gUWHktMY3gPFKROXaUdZvF9Mqop20jAuePTrI_IQBdZgOj3h-J2-Hr8TA<br/><br/>
+2014/06/02 10:44:39 : New device registration 352941051595691 | APA91bF11rU3rSyWdeMDin8bM1Yhg9TzQn0hoIrToq1GUjwZ2Y_QMhFvutmrRRn3w8d5rFCLUONi4Jg0fMJlu6sAK98kskT_xxGYzrg6PMvd-mvxawwX6CvzFwS8t-Nwjcj-6Ir3wlGa532lHMfw4t6xzt-3NB7e9A<br/><br/>
+2014/06/02 10:57:46 : New device registration 356489054060467 | APA91bE2_DSHqby-ptm3efSbMw-LyJH8X7TJ1XshzNTZNb53XM7ya9dThwCCAcDLblsZtFSBUGCSVL9dKXxnflunjbChp_5B1fbPh76zul26fH9LoLHrW1YHf7-zhCFmeZQ13uTFstbqoKVOH87REi-dQXdpUAmdOQ<br/><br/>
+2014/06/02 11:39:03 : New device registration 358240058566134 | APA91bESMEnNRFtYDnmP5IhNkU7DQ0-5kSsZ8e7VzqZODNZ9voZSa6gfUTsnPnSiPOcDTK3Qatt4eXsUMkzUdvrQgl0cOqpMR4-6Y6-49Umf8mhkKM9X1U3h-wf6HemzokwW7cPo7GRncqiW_fMjzgTb91W4z634OQ<br/><br/>
+2014/06/02 12:34:12 : New device registration 355056059512395 | APA91bGWdUQ1IwkBYmgBFLYp6lto5Pg5-zZWccxOrRvEk9Ysvst37CCxUX9zBLHth8vYa35ElmYId8pTTPYR9L6iCdk0NXfLnJIRpLkcX_YARS1Q49EHDFI3vLAAM5R0054SYafBkfKArErqnd6UKE-joOhXEShk3w<br/><br/>
+2014/06/02 13:45:45 : New device registration 355698051516427 | APA91bERx7eJUOv5b48FtpHZt7oPzmmSHVgVR5DwzhGSAGEBDXG7xrWCIcCPUm5adcGjsI-REL7hQeffcpiP5n8aI6xoCz5l1SI-jMZf_e9UHQXDkGPkD-Mj9yME3nPIPcez1zK-tndUBoHgWycAjFKMSCYxobre5Q<br/><br/>
+2014/06/02 13:46:19 : New device registration 990002956788580 | APA91bF5v84k40Z-eEfbiD2vBvSYwPizniQfiuZuTqz0VKh6RF31affAj6C21WoR0l3YlMasEy5DZsY5YXVxDYZpA5kWpGJqmXVvdFpB67LB4gGoeG-Babw398PSPoZy2d1SNMg1fhOXm8AFtxRMVD4dWd6vUO-b9Q<br/><br/>
+2014/06/02 17:26:36 : New device registration 353818055862021 | APA91bGNvrJZLF51B5XbRr7RkpF099Y5PkhPWzSNGhTWwnRaQNImZc9SR7JcBT_nW0nkKhPGNH2R503s-izLTONzrFrXXZK7_cib29WZnWIA56rZgkJEhElbghXNmNv9PMvtMf8baAhV2srvAV8gRLliGFzZHYH_NQ<br/><br/>
+2014/06/02 17:31:10 : New device registration 352306051553316 | APA91bF4DpkqC4BkVgu9QPMfIpgfejGM-kvwdnGFvLMIemk-D3qF56GPR-4Q1tXfB7JCr-mmyLh46VLGsYm6hgrTp-m_DwXdGALkfUvY7lldsslRJrZNe7YRl8fhcUuzwgUmDXNlO0c1gCNACKI0yTNvu7tygDZrsw<br/><br/>
+2014/06/02 19:06:39 : New device registration c0808216575fd40 | APA91bF-dZQdF2qqc3X3SeEiex9CMhWiK33HifqGkUeVTZUGZPbrmBYuX5f55hjtTnWhxZ4Si7_PUpsgCiwpFV3OfdFbcrk2MIDLaEt4A4iXDqZewVeKOHgKAuJgzBmN3qOKSuarinB0THXnRNEXjCjNcmGnbP75zg<br/><br/>
+2014/06/02 19:22:02 : New device registration 358240053870465 | APA91bGl6uFJ1U2KAJ-wTzuybamIH006elJmtkSiVA0MRk1xkcF6sSsYW2Osc-F7nKrKkFBOvFHrRb-taGb_Emd5KYE_vahhAoRn5A97beEo8ZYtToVXbnYdq3ak-T_KQGvBiyXxwU61RPkaosD8Gqz_1VeO0UXyBA<br/><br/>
+2014/06/02 19:36:46 : New device registration 356575051958438 | APA91bGJvg9DnNHCZoVgWT3dXlfRKHzT-ySMK1SuINVYmUUDM3gdxzAXwdLRqQdhWPjtQPXva1dkIXEZRHrSNdDtH73AHnevB12NE0vutwYNwEBmKWF65iyRrCokpcL9UDCkW8SCHRTeU7iho3T_p8EbWQ8r2J6VOg<br/><br/>
+2014/06/02 21:35:20 : New device registration 353818055099525 | APA91bFz-zxSL5Dw71fudapbqBddjGOS7lFsUYf84F4BiuPMvP1Ckfqwd2nhslVaje9Ez3mxJCqc3cxrNowX3r1u7MSHwL_4gag_4IinVeQLROE1XQhkPBpH2FKeOdYrgOLoaqq66ToVZMKS-E0a7u64XOISYfFOrA<br/><br/>
+2014/06/02 21:35:50 : New device registration 911319450015393 | APA91bFL_Wjjt7wDOSFCCra7kflgrxWBcprnW-3MxiIk66phDVOuSHftd0VP-IFkjE3A97h2lpGVdjMCsO_uhM_Xw0pi2hSVBRRWgcZRsBp9ySokAx_lCF2S15EyR9ojH7Jw5ZrHz-eNI-DPnaRobIsSBxO3VDfyMQ<br/><br/>
+2014/06/02 22:17:03 : New device registration 353854051478603 | APA91bFNZ6PK8MpAftehR2QQClPZs8Dz6PAlfaTq1Iy14CS5M3N5pWJLznr_b2Y_ustko1NixxcKjqC3Kx8r5SMOL85P1XIfIiifvxuQNarxCSdTRpwaJBG7tgMATJUeswd5-HjmZmGYDxN_IVlB05qND-ZW_IinbQ<br/><br/>
+2014/06/02 23:01:20 : New device registration 356262052410178 | APA91bEGdv51UGUDLGo8vZ73NVvqQyTOEoSSeOg_vGX5kbpukDmIwkOiGZExrA1BDWte_uIfV3Ar2qcXFvKbYEg37hFF9tqDqGZDtswOC53QerD4xWiiIYFAyYMgYKcQ1NTd0_TGAsRISWdDt7SMI6RJvctzTYQspg<br/><br/>
+2014/07/02 01:06:04 : New device registration 356631053905396 | APA91bF09v5PQajVyb85MBUhQihWPoUbnJo3ozQpOELyMayQFrtrMb4Oe4Qbk4ZIQAghS1BJhfuEJ-apm08XBHSlvi9KIuQ6BGtGf63tLybmz9vTScIitutp88ENYJcOFRJjYP1ZN6DENsoeavqKq_wP52sXqSqcIg<br/><br/>
+2014/07/02 01:07:07 : New device registration 352266057384639 | APA91bHzNzorxn7wC7mwFCe0aBsClu8CNjjCaL7qT26Rk5yVHEmRaDFRCNhw2osIzaQjpKmoXU5pf8VdynXh5m7ZzSqy8fziURZ01sAyRhnDpOeNG3M21pAZhZyHMdf9iRcZLrcW0pWwhwLUGF0bHOm1c4v9-YqRzw<br/><br/>
+2014/07/02 01:19:09 : New device registration 357953049614174 | APA91bGbu2rt8X_An_w5Uj8XEOruFnGCaFhGWJ92mipRy2cv2SsnGw_wQhqV-Oep1cRp_40ye5aG0v_N2OSdmaw6Vs2r4lvebUHFx3TYsh6aw4d0tJ9Bkdsqlnq8R0hgPwneO-xheb6eE_Jum51F0Re3u0Rcheg92A<br/><br/>
+2014/07/02 04:33:06 : New device registration 352795057168998 | APA91bFojbv2e-r4rxmtNvfBa2ahLVlZHVhGblWCZS1PKC0v6yWZOZHbWPB5-dyI9gSGAmIqmbPbO8kP3iTNUNhpdWbcUrTUA-65fyAA-GLseSUG_xps0KD7TRj0vV6zdxYXIcoa705VTH2GCwl2t4D04DlXYr0rsw<br/><br/>
+2014/07/02 08:29:37 : New device registration 355884055895997 | APA91bEEVEshXyftQb3D7uDgUY7FJEB0Ggchd4tY8r0w4WXm0fT7cpOYhMMCm-v1TtSqzNyDmUpg2N3h6VGsa4ZaqK8RsPuo0Pm5PjTn0Ugo_mmd2d1Tqo8didoEWK3HejgG7gWg4ds-4bZHhTntqXxx2f51RdEYPA<br/><br/>
+2014/07/02 09:33:25 : New device registration 862767025717860 | APA91bErJIyDGqPY_eZuKvlpE1dn6d_ptvBYcGTW4cDq0xpULUKdHgT8FSnqexSz0M6Ph2O_qyDk6y2UjT0sRY-zTPC9wwrnyz2NwISV_MxvWQnWq2IxdNGYg6n3UeRgGHkzZndPFCLMm9FYGiFWLECIqg0JDJdyjA<br/><br/>
+2014/07/02 10:14:31 : New device registration 356489054336248 | APA91bGm-dfJjlxeqRyPCWZ9-y5htejMp0Y6Yfdo1-0uUIGFmb_z2SxD_-WGIgrw3fBa-Dd4GKaZozcxABOCADvmW1sQafDgdcLUhC4JcaGHG_k88Q3C0bXgsiyrZdQtygZnfzvbbW5ZEtmkIvAeGeNuB2Bimb5Nxg<br/><br/>
+2014/07/02 10:17:05 admin: Event BITSMUN 2014 venue updated to C-303-307<br/><br/>
+2014/07/02 10:20:12 admin: Event BITSMUN 2014 venue updated to C-303 to 307<br/><br/>
+2014/07/02 10:21:06 admin: Workshop Autonova venue updated to A-501<br/><br/>
+2014/07/02 10:21:33 admin: Workshop Swarm Robotics venue updated to A-503<br/><br/>
+2014/07/02 10:22:43 admin: Workshop Cyber Forensics and Information Security venue updated to Lecture theatre 2<br/><br/>
+2014/07/02 10:22:54 admin: Workshop Biped venue updated to Lecture theatre 3<br/><br/>
+2014/07/02 10:23:15 admin: Workshop Autonova venue updated to Lecture theatre 4<br/><br/>
+2014/07/02 11:01:01 : New device registration 911344200009231 | APA91bFXFoOh24uC4uxfVpvZFpEj-nure6QGeFLi9e5lMJ1QR7U0BiwnLE9wIP8UT5h3qH47FiiIlqZnHhDz-pt7PxEHB2cK4hyR15kEQ0TTSVADlxCCLB11T-ZnItj6W9A4xHqyPhsoBU_yabQJnWjqMr__6upORA<br/><br/>
+2014/07/02 11:13:07 : New device registration 353327052047412 | APA91bHfZp9nIFKhxSsHACqj-qpL2SuigIYFPJsqFtw5_mPEzya3799WnOvpbL5Ve4JxyH9VtOtfhxjc4fXYswlq2w4B6mi_QVxcuXcg--5SN384EfXqBlqgT1AjLZguWh5xvHcDxt-Z9UfJyq6u0E3fJSrm3rmbZw<br/><br/>
+2014/07/02 11:29:17 : New device registration 352900053373796 | APA91bHlx9KVBkMqVNCaF-NwQaE2t8os28XOWe_pQQlbwGiy99ib7qMn8jATxbTpS8q7VrE1bg8MZ0zM1xTnLt6uAYA-tW3hqBZIdifMp7yeLU0wKgDDIH2zJNrcVW54BDaGIQQyxteXQx9GEGjPj9svEKLXkVG_lg<br/><br/>
+2014/07/02 12:25:54 : New device registration 354905054908126 | APA91bFb3MJNPC_UPjIzpcSDr193OssUJAdcRvnEjtBx8IlbmWknPFWFdjoLIdOf1tewfZ2SahI33_E1akfmL0HNN5RzmtKhbsEsW0O80EeEPCrH7JWUOceMfxQQvBtHr32CX7FVuYYIvk64404-HoOCz6z-nlzXIw<br/><br/>
+2014/07/02 13:15:23 : New device registration 359828042267212 | APA91bHt1X1PSTBqQ5pvaZFb2vp0gkjz1t3rmEkTjQcdGkssWVTKyre7Cjs7a5ZfjUcP2Jt560DXtI6m4s9BaWpQkQcWvvkAWlATwxOIllMxaLJw8NFxZou1CbvDpOPfACKvgutctT267mRlGpJjgZERSBAbQKmLfw<br/><br/>
+2014/07/02 14:02:32 : New device registration 356489057336203 | APA91bHmn23czMTTK_4_cvck2CqdVA69Oe-F3vnC-h16xYxkwts8RFy4zVe0BPTdcI8Qzk7Law_cj3xrs7jLK_gMAXsgV7nfp1TepkX94HQeoR-Arfzc-U-7pxv_rQdvYxu9KWAK3oJU8FNqBBlsNmBHmJKFT22hOQ<br/><br/>
+2014/07/02 14:20:16 : New device registration 358098052840586 | APA91bFIKq0Q2fyc6tv5-PLkOabACAXI2dWKNBYaqXa_hU4ThK5VCdoyYOAo6K-L-ekgiFfvmhOiomVpNO9wYHqkrMNZqp37ZRhgSvtW5t_kkulcAfXceU-lsU6YQPz23uhTEtcyETfMb879-KqbQ4KcJMFZuEwIwg<br/><br/>
+2014/07/02 14:29:03 : New device registration 911314101665050 | APA91bGHwF49Q6PO6I-Bblaq5OvC1syRZW8YGbKukUhF3xrcm65m4UaXTENYkCcpkAD3VGeF5IxGDWzDr8tDPQLosQaZ0NtgDpWZgXJPzfGH_zY3ovcHgYv5robfeVs1-U2xm9_zDt19ZpTkmqGtwWLUSe0HWNjDKw<br/><br/>
+2014/07/02 14:37:28 : New device registration 357212050239656 | APA91bFB8OkxfS203MFZSN4DA6ri1bqo53ij4xgTxCP1U6Gah3VzzpwAzEeUBm0Na6vOSra7EFmTCoG8PxI1Aq6KSuvUPdiBtkA-OC2j7Y0eTbLSGdRyJiLigvhIP0qavlHYyDPnNHtrTiZ2A2-AXc8RDaJwalpRzA<br/><br/>
+2014/07/02 14:43:04 : New device registration 353020051239714 | APA91bFdqhVRhRFBbHOGku7tlkdEoa8QewdEcPs4tyi8Q6OVCjSZocTgN2Z8VRbce_u8M2WALdHaTb1dc8QApQdRjEHk4CHSPHiCmzof2tfwfcnf_cap4N0WfR1X95J9sq4bvdy41DNZHoScHkuOnxOPyCU9n3G7xw<br/><br/>
+2014/07/02 14:56:23 admin: Event Applification venue updated to A-508<br/><br/>
+2014/07/02 14:57:14 admin: Event Paper presentation venue updated to A-601 , 603 <br/><br/>
+2014/07/02 14:57:33 admin: Event School Bag venue updated to A-501<br/><br/>
+2014/07/02 14:58:02 admin: Event Open Showcase venue updated to Library<br/><br/>
+2014/07/02 14:58:31 admin: Event Mortar Kombat venue updated to  AH1 to CH2 Road<br/><br/>
+2014/07/02 14:58:49 admin: Event Trailblazers venue updated to Central Lawns<br/><br/>
+2014/07/02 14:59:14 admin: Event Burnout venue updated to  FlagPost<br/><br/>
+2014/07/02 15:03:59 admin: Event MatMania venue updated to Computer Centre<br/><br/>
+2014/07/02 15:04:13 admin: Event Embition venue updated to A-602<br/><br/>
+2014/07/02 15:04:43 admin: Event Arduino Open venue updated to  Digital Comm Lab<br/><br/>
+2014/07/02 15:05:14 admin: Event Digilogica venue updated to C-404<br/><br/>
+2014/07/02 15:05:31 admin: Event Quark National Quiz venue updated to Lecture Theatre 2<br/><br/>
+2014/07/02 15:05:55 admin: Event NUMB3RS venue updated to Lecture Theatre 2<br/><br/>
+2014/07/02 15:06:14 admin: Event The Amazing Race venue updated to Library Lawns<br/><br/>
+2014/07/02 15:07:04 admin: Event Quest venue updated to A-604<br/><br/>
+2014/07/02 15:07:36 admin: Event Virtua Wars venue updated to C-404<br/><br/>
+2014/07/02 15:08:12 admin: Event Saviors Of The Inter-Galactic Realm venue updated to C-302<br/><br/>
+2014/07/02 15:08:37 admin: Event Intellect venue updated to A-603<br/><br/>
+2014/07/02 15:09:03 admin: Event Bluechip Beatdown venue updated to A-502<br/><br/>
+2014/07/02 15:09:20 admin: Event Wrong Turn venue updated to Library Lawns<br/><br/>
+2014/07/02 15:10:04 admin: Event Armored Wreckage venue updated to  LT1 - LT2 Lawns<br/><br/>
+2014/07/02 15:10:15 admin: Event Call of Duty venue updated to  B-Dome<br/><br/>
+2014/07/02 15:10:29 admin: Event Startup Weekend venue updated to A-602<br/><br/>
+2014/07/02 15:10:58 admin: Workshop Magic Glow(Persistence of Vision) venue updated to A-605<br/><br/>
+2014/07/02 15:11:13 admin: Workshop Internet of Things venue updated to A-605<br/><br/>
+2014/07/02 15:45:44 : New device registration 358240058481433 | APA91bH9G1uMPwscviJjrnnqVPG06gPqmn2f_XwPMd0n9K6Nwu-T_JWgnbh3zP5w7pkdPZQ8QuS4-glrSxocZifxfNlrW8c3bv5SU99u8iHFzZxGSanedoNBeuHufrt1XmGaN-B7I2coHd01VHm8SUZUkZ_SG-RyfA<br/><br/>
+2014/07/02 15:55:28 admin: Update #3  sent<br/><br/>
+2014/07/02 17:52:23 : New device registration 352264054721507 | APA91bHyhvNzLTlxLaz7okhOlWuE9tP2EgKB9YZdsW52OHW--gC3jaBWRYnlsnzRVA5NHha7vrysTizvM_CNOHITqGc1-i364lYM-1v2_ukLC0Vimms2aP21CFuHh8suzm5ICna62SWK51xMPEnSVZRQMCdoe03JsQ<br/><br/>
+2014/07/02 18:04:20 : New device registration 861166020228349 | APA91bE0157uJx80FrYxyzOOSkpwBYZJnaTQ8Z6Sx8E_E2cjdQUfXMuvVmaVX7YKN5F8SvNulKmAnUpphJ02DkEJKjxSOutYaaFzDktfq62bIXxKAUhs33JXMhQ69cZBTErk8F5NtwxJrYtpua5dB8QQug1fSGScJw<br/><br/>
+2014/07/02 20:59:56 : New device registration 355757051426464 | APA91bHkJcF5G8YZ89eEiiL-t3DrzECh2dN8ZG1h6yOfrth0SPWNgBKGrRreILiL5k90EErn0YNU7pligmZXwf1bnyVtnpqqfzvH3WOj74nDs-QeXTcaAQFjU7dZXbPXrJi4HH_k6FEQrzvIQBsVf4bKEAWljdaAXA<br/><br/>
+2014/07/02 23:08:33 : New device registration 356489054358242 | APA91bHSOs1fEVSJTPKZtpVvjzf52CJImsxl8uZcGQOw6TPNVSnHcIRBJpHAwAt88m72PWJgJMomSPKT4f-yzLjF6shxK4r1QQk3DuYH8efm8GNJHpmlxBlLdVWrcqLV_Fb0ulu9t3DrvdoNbgounK3L6_VhqRaQmg<br/><br/>
+2014/07/02 23:12:48 : New device registration 357376050176653 | APA91bFsqT22hr2mTOXCk6Boa_h1RQggBslW6yHqsRfihC0GCLDDJFsnPPq8aG_WhElQZ3z6ae9dHPCM8ERikMdxAp8ILDi-NMxypDqLwXfWCG9J8-1X_wFlqZ_ZZU5zH6W3un4npGLepmF3GW30NBrcXgnjgPcpFA<br/><br/>
+2014/07/02 23:22:54 : New device registration 911306750330937 | APA91bH435rg0660uBqm0F27w23TvRc8PsTNOgesGt-1ahokACTSuWIvbbDX_bjJZGdFAm_KTx7x8VX0kbGiqOYsJhnx0o4FoEcP1HxbvCIt5J9Uic8eAL4nNGOaVhwwROcxq9U__m7eZO4dfc63-hmNJwgZ6F9JKw<br/><br/>
+2014/07/02 23:37:24 : New device registration 911323001393317 | APA91bG8HxipcF2EqkEVYdBgHpnXJ72cOSp0TtdTkb08HgLrJ9hqZW81r4SddRWwjI0cpzOHkNwbNtuycJ8y15lvcNEt3TWDQekvw1c9oDJuOo-jUWz6_evSPScGkyjGFqaTo-zfuSqq-Oc5Fxtb1HgG1PjD9Vu_FQ<br/><br/>
+2014/08/02 00:09:00 : New device registration 353854050810210 | <br/><br/>
+2014/08/02 00:09:04 : New device registration 353854050810210 | APA91bH5Z4h8jbNM9afH-zGgx78kjHdV6hZitmSU8DFezv67IMmMb5BvUBXsId8XBxfYOlcLeMJ1hND3Roh9bj4xCbRP2oX1L19mRrEg2NSp0GTjKKFIr_iDL9G63gCX8FY5W4VSfTphHOWRHhg9R-rle-Py526bpQ<br/><br/>
+2014/08/02 00:44:26 : New device registration 357091051445862 | APA91bFf69MB2o1XLKIkCdXDB9TgIPLnIxCpUkL6xu6PV7ou2-uaLP1-CIuVn4tKyvl2_F9CA6IEL-i8Fj-ghpRZsAw_jeJFlQBXkxPpvO6lJ4falUEtkUMp8ONXZta_UkaUxNgUipIeb7aPU08iBMH4Z0nh4Z4UoA<br/><br/>
+2014/08/02 00:50:37 : New device registration 358240053469094 | APA91bFiUMMXBR_t5IxsSOYGyR28-BFePlnaKXWWmuMeo-BOS-iik83T9Do3qdd-mE3WEUppj5Jv9JenWEFVnDEzf5290gC2n6-B_r8VyDIIW9EQI1ffrjRBTBSnjQJXVexx8Rdy7Z3B7r2LgxfG3esCiT7Z8qZpUA<br/><br/>
+2014/08/02 03:02:16 : New device registration 356489053461997 | APA91bHO9QoQxR-6uVGtZebwlllr2Wig3Wmb4ZOP3p3RxoRz4sOZ3WaJXb9M8JGCuyChPuBkDChZi4KnfbhipPG8UFwzV8mH_MulqCEivgLRyFbuvufcUTTheiMIhxUU-oU58IRrh6_ymPROg_NgYS3H5PGCSe_oiQ<br/><br/>
+2014/08/02 10:54:09 : New device registration 359487040176899 | APA91bGClFrfbyCeliNpsCGe7Leo20YRiacCdzF9HqgV-e0QLln8Na_XEOINp8EPSDFRTvzK3P_yW-4kUy0oUO-J1MdLwdpiMDkPp9cDiGqgwTaf6pn3vHckg-TbkNoDP3q3Ai6Rxmc8CvnVJ7WYFHfG8d18ny7-Tw<br/><br/>
+2014/08/02 12:18:02 : New device registration 355004059058225 | APA91bFbiVP3BORBXO8f9L1tzYbh7uvatt9sDAcwobq1Uao-SWM52ZSFP7ivDMfcEzaYAER41TYXYzLws_YzLK8-R6yzaS1jfVZgNB-YjRZUQpbs1k-WkEGi8MPFJ7pYbRFHH6dcqavQOJP8WrCVUP61Y2SdIZKW9Q<br/><br/>
+2014/08/02 14:16:31 : New device registration 356489054468348 | APA91bGjp5uDAnymemxi_qNSWOw5E76zjVlgy6_OPIGDndP0C_l_28URPQEDodT9Ea18zgq_YWkVI8X26PlRpBIJj5syT6WBeRvyWzAdo7scXMEoRTR1RtFFFXVaDG55N8LJ0QtI8N1YVajwWa0EEOAQHYDO6463dQ<br/><br/>
+2014/08/02 18:25:17 : New device registration 358401043210598 | APA91bF0d3PP7VluVeMHG5UXyh4_WZpvjJ6fLEHZZbp84N3-vTpwmm_4DMwtzmfpABSIkwQDJ3SHQMA-ZfwViC7C-WcRLfTlyX4gXWAxSmkpySFT-J5FVE9Pf9noG7BEWigZgVOnqXvZ68LO74McdoR4GBw3FaZ46g<br/><br/>
+2014/08/02 18:38:24 : New device registration 355884059562874 | APA91bH_J8M-iKzYNuubGbeNxkzQ-MUXJ5l5jsAs5sjsO1WBZGPueMz-54k0XaDS3gt2ASbU1yHmVfhCNNNdRfmXJ14XNswRjg_wl4mJIynDCh6CQYgBIX4dBjP8X970FnxHAm3bWH4fr6y4biOhkhmUxVmGErjnJg<br/><br/>
+2014/08/02 23:06:19 : New device registration 356844051964386 | APA91bHRz5IB9utA-By1Ynu3yunXXxLVrCHzWl35MQ8zV9IVDSbZL_8wC7HPUypTyKQnuF9ORcBjNKI2xv0-zumWB1K07IKPtM-GN2Po7J6-TRoM0Z7kPY3Qt2w4poR4_xFCxf-V32RrX5Z_hITnGO017c7U1s1JHw<br/><br/>
+2014/09/02 05:46:33 : New device registration 356637053359310 | APA91bGlaTKrQE46-ECClvcyv44a93RdocJYQmdCNnxAhBBNu-RLHnKS1ftqEWpbn_rkN5goWGf1a_1wccw6Eu5gYQjFzpI3q2AsrkQYn0-W11zkLDcLzr00NKalaLcPJE3mWWdg1MvB58VwGS3NH_VBvQznOgfR7Q<br/><br/>
+2014/09/02 11:38:48 : New device registration 355136056572657 | APA91bF4WK_BqNGNyJHB1VfcONaoLJEwFYnkzh818FMul2ghobhD0noRpTV-MCgB40I1s21WnPex398A15-ldFmTgNTw5LcHrnmuaE3Ln9txnhwVeI5dg_1ky-QFdBR6WVn0esb2dYCGDF9Of_ozRuMuGtfB24P_jg<br/><br/>
+2014/10/02 00:02:40 : New device registration c16073810600021 | APA91bEU9Efqh-IQmormVV6S0lOldrlVp74v5Y9J1q1MrkrPyrjjEGoomjTfMEgyFs16bJfFrV7Yx2e-V1nWnJD4avmf7elET-CySgyhxDYgYe74bsID-blZa5OicVS_Oqlu7F-HciDAK_bWo-d80yS4ekHVNzsf3w<br/><br/>
+2014/10/02 02:28:33 : New device registration 911316300145578 | APA91bFXu-t42BNA7bne9_eCSuo9g0hPw6_AoyH_KLUiXLBJ_J68CBaRgDKnM2JZnfR1VotHta2KoZpusVy5OI4mE2C9ZBAQmMrvqSEJtLhW9w9QVA7vcr3xRgxVHmFjJdbZ20m-51tIFtKPWev6m_YgWR2cQsAK8A<br/><br/>
+2014/10/02 11:17:27 : New device registration 358514050454394 | APA91bF91rKCvYVaKOKofRn8_pSxtpSgp54S5pcupkM4DXEeDoORACQzCBbUbtrQ5vsD2Jgb1QB_azfAyQNOROQfNE3k8C8k9McpMGEuOt8122nj81XE5NHS3Y16jqloIr82LRJYKUX7jXO1XJI-III5X4bA8hZ2Yg<br/><br/>
+2014/10/02 18:28:43 : New device registration 355666055711112 | APA91bHgZjrVQts1QHRpCk8NRSxIMN6jLSKeA90Y43dyOWg1G59AxGWKz0AQQFHIL5eX6l28ESM1wnpv7hAAyNkp27XhKMLsqOKoTss07Vm51bS0hl-6Yy4z6A-bUwVFDnrnfZ87XB1zUfqikJhdFiWrVTsRqKVXyg<br/><br/>
+2014/11/02 11:50:20 : New device registration 356575051653740 | APA91bEsdwh75RhOMPgaSal57UOm0x3bPBZzw9hfqS-rdPAPp_ARVzxzlzVeeRr4XBnvcFku6iPiLDhyLB8nr_MSm8M8S0XWR1b_aOkEO_F2D3rHmZwiEJDMu5A3ontWp3T0dfrL_W9RvXMXnEHdEhF3qxLry85ltg<br/><br/>
+2014/11/02 13:33:36 : New device registration 353811050153553 | APA91bFj9qmXZg6TLkpRGen1XThzhsRAOBMd1PTgFRcjZFZlcmXOKSxlV4KssfEEytannsrkGerngvKmxQUYIozAD6wh5E724QksxPZvlWvJEd_akRiH71pSwjYTHpcSiwwQbyRPF1bRraT2aCbUA5w2tdZm7y9irw<br/><br/>
+2014/13/02 09:29:59 : New device registration 861170025684084 | APA91bHZ5RjPXby1aQNEIzwiymstl-6pVcDP5UCVranv8OgXa7JBoyfwbAXy2PtDeApWDyIpGCZ5qAIR1GLTsxg59bHgofKb8fzGoy-OO2YTyPPsf0UlW_0NgjpoEx0hacBJlZosujKpCtDrs-27_CC-qqDu6on77A<br/><br/>
+2014/13/02 14:09:03 : New device registration 359038054239709 | APA91bFXlSm1JVIVr7JSUUlVYIbRdPoZn0kPYiXHLaLzpBIG1NG_v7VaJuK7ASXhNyCQcvi5b4vQZOMvuQCLfiEtpRej4IduPPRAHSrY7qSEcujwtcub_f5ARp2cndKK4N10PQVF7_HbeSVjwjJXwUxkYkvQa8mICw<br/><br/>
+2014/13/02 14:19:41 : New device registration 355167056828328 | APA91bHdpXm2cHIdqkpxo-pNUQiKOKQhpJdO5xTtxUhm_spQuu_ue5FqC1nbihdsPEc0TOPll5q9lr4FqfymYuaggLCDrOuy5SrWGlx8oPGbocpMX-KEa3SvbDnQWg7gUCBTQlZKb8lMdeh9SPQI8am3gEGrlZIWOA<br/><br/>
+2014/14/02 08:15:31 : New device registration 99000336153036 | APA91bHOgWdIKi8TVnGoalR7Mk63vWJhjHCd1_8Jif00CXYC3gZlbrxqIEYrkRQNYlxZc5dT3z5RS_49VZ8WTs7Ltf1pRV2JN6nBrGiL5I2jaejcMvmbb3mVX5qrGjmrnletGL6-i-jZ1VWkiOslwM8SeFE-jRxzjg<br/><br/>
+2014/14/02 15:50:53 : New device registration 911316250514203 | APA91bH9-nvJd7LLeyowNIYAq5YhscWt5R7w6CI1poQIyKvJhFJ8FQe7Rx7cwmd_DR4G-vdE8QNa9OtoXskLDROt6qJ7_ig4fsVsror-1J_In7RInGUgmbHIaImrKm137n7LXf84G5xbKbM0prmRM-Fhh-0ZVLbiQw<br/><br/>
+2014/15/02 01:18:18 : New device registration 357091050258811 | APA91bHf0rvwOfLFtXgDcpKEUNwyi59ivZRFMxnnGDPEQMe5MU9iQDrfaOEAhWYL_GdSI9-pQNhVIaqSsltnohdOklqT-hasNFRYnXKqFz41MCvk-rVkrwLkdGoaCfEB9wB7Bxl-A35Fw_mNkefkxDu5ajRfjxsFuw<br/><br/>
+2014/15/02 23:09:50 : New device registration 356575051958438 | APA91bGJvg9DnNHCZoVgWT3dXlfRKHzT-ySMK1SuINVYmUUDM3gdxzAXwdLRqQdhWPjtQPXva1dkIXEZRHrSNdDtH73AHnevB12NE0vutwYNwEBmKWF65iyRrCokpcL9UDCkW8SCHRTeU7iho3T_p8EbWQ8r2J6VOg<br/><br/>
+2014/16/02 22:07:46 : New device registration 911314101727371 | APA91bFvd6esMp4cb5PDpSTur8cRO0kTmz2KqsFmxBx1bQQ6_Kum-844GQ-eUgjsdNegNbB26u1-HCFdn-cFHk86FsvDd6EIJkuZdmGUYubHgIW3t594R2Bqtl8KArOS5Im37iYxg7VOEfo7bZ-HuL2uMikon7OTyw<br/><br/>
+2014/17/02 23:30:34 : New device registration 99000349985379 | APA91bFGoZy9ZQNL0N8yLKuzkSkQr8W_d7y7Hy-REl83KDivCn0qylqxLnBemSppX9krvgDgs7bdQmUxxKG1mcANaBl09seb7tWnj4efE6utxqG_k0-6Mzrdpbz4FgSVLAfwfWnEGOE-Ye-hBa3WGlXfMiQk9TtCIw<br/><br/>
+2014/19/02 00:10:13 : New device registration 354994057661643 | APA91bE4WoWQwtWf90eIRpXqID3kfkMnKMoEI61CjPxLrAQyzf9YHvefo5w2iEvmd6E5RFhKunKM1L1V0CqVVbyjg22xQMeM1Y9pYw6WX7JCMLm8nxbB78EFuTwYKkMcFtFKu7PHa5t0LY-leoX39klgphiUTKk3Cw<br/><br/>
+2014/19/02 00:45:50 : New device registration 355810051207085 | APA91bEyZpaTQQ3N0r7BFWbFMtIhofhKivgHWz5Q6gIcvqkkfSf2VxfvcNaSAGKNYzBOSOMRvGc54R1gtv9fkHEA1weHUVzJb2wEiPH_PRQXNVRYjDvNMnBQV9IA8vqquSpBHqqBJ-CEqTyhX2o0lAlyt5l7-f7-9w<br/><br/>
+2014/19/02 20:49:35 : New device registration 352985055039842 | APA91bGHOpuhhxAU2L_5jzHsRsMnWZMb-ZdUukoZrtbBXakQRoZeE_TfmohFoUMcNZOR0vcXXSYT2HPUC6PZ3cXpmxQHmgFhcswOwl6Bv_PBIAvXlNTqf-cuIfvFLuqdtocmecHBhJFPq7C8yFUthNlmngCzAtce1w<br/><br/>
+2014/19/02 20:50:30 : New device registration 352985055039842 | APA91bGHOpuhhxAU2L_5jzHsRsMnWZMb-ZdUukoZrtbBXakQRoZeE_TfmohFoUMcNZOR0vcXXSYT2HPUC6PZ3cXpmxQHmgFhcswOwl6Bv_PBIAvXlNTqf-cuIfvFLuqdtocmecHBhJFPq7C8yFUthNlmngCzAtce1w<br/><br/>
+2014/19/02 20:50:46 : New device registration 352985055039842 | APA91bGHOpuhhxAU2L_5jzHsRsMnWZMb-ZdUukoZrtbBXakQRoZeE_TfmohFoUMcNZOR0vcXXSYT2HPUC6PZ3cXpmxQHmgFhcswOwl6Bv_PBIAvXlNTqf-cuIfvFLuqdtocmecHBhJFPq7C8yFUthNlmngCzAtce1w<br/><br/>
+2014/19/02 20:51:18 : New device registration 352985055039842 | APA91bGHOpuhhxAU2L_5jzHsRsMnWZMb-ZdUukoZrtbBXakQRoZeE_TfmohFoUMcNZOR0vcXXSYT2HPUC6PZ3cXpmxQHmgFhcswOwl6Bv_PBIAvXlNTqf-cuIfvFLuqdtocmecHBhJFPq7C8yFUthNlmngCzAtce1w<br/><br/>
+2014/22/02 03:12:58 : New device registration 911304250614041 | APA91bHHpBiRDfQK4Wi-MU0Dm2lTSItaRIDVnXsTzMria6qbDHBzwnrbPbIPj5XhJxvknhAJ3ZKvZ48_maMQEYY12t0z2SfllVNPKNMkJJ08H4i5EEun1AvqCl68JLz5HoAbpAJ8qa4pbeZr_0f0gj28l53kROUvHA<br/><br/>
+2014/23/02 12:23:08 : New device registration 356637058856856 | APA91bHV2t1E-w8_hl3HbI38avSlS0XyfqyTY1jxdByLHQbZ95PUZq5qG2zsYFyybEfyPorpJwmlXUo4EbWjURkGiGUIhkgQQnUm6dySrc2QPXUqThdtQctcwyuIS4gZPLphpD8c90909J_SeTSUl18WP3VJtP2lQw<br/><br/>
+2014/23/02 14:41:45 : New device registration 357390050886039 | APA91bHrDr_ywuwSV494Qj5lW9_8O7cYyfwQDvn0-gEiTp8adr_1HfwxQceW8HxLYsNYBl6TJFJMy-dGlrAMk3Lc2xnau5xpoduADEQRr4qBztFBXNET5VH-VTWxdXXGeF7VT-X3Z_jRERkbT8yyhpnbCU9GfJJKog<br/><br/>
+2014/24/02 00:10:18 : New device registration 015d2994ed181613 | APA91bG79J21krvM2YZX6d3yofq8ecONa0CFVymhEEMsJcjOVyiN40kKBnXaNuvEMFK_XOkB7OZw4dNHltLQDnah-PpYQq_uLwTsGPERfBsePdg9d1o8pcOkv3fzpuHjq5r70EF6_h5fR7FgPVJGINW50wQVcYWvQg<br/><br/>
+2014/24/02 18:21:43 : New device registration 357484041970588 | APA91bHtulrFb86IMUZtiZK9eRn7biPVfU7aHpMVlONWn6ayl2NN6bghmfB2DV7Pv6myl1IMt1qAXDmqIypovpMBrqCTHLuUl7i2Ij6K3fx1-56WcwE_sAl-JsJBINjPSswTgKlGkL1tU3f0umVoF-5kKjl79ZYMRw<br/><br/>
+2014/24/02 19:33:22 : New device registration 357357054455111 | APA91bELCV-t0sl3uuNXziwyeVlI3uQie6SAZVQRmdUq1S2QZhZtQAb3vqErQ5cOSq1jbgnJ3sov331bGPPfM7qcoSd5W6UgcljICpenw7FErr8Zs8fESN0pxEtc5ouHY7KumxZcTEK_3Q48Q_bGRzEzvdznRbrbkw<br/><br/>
+2014/24/02 19:33:57 : New device registration 357357054455111 | APA91bELCV-t0sl3uuNXziwyeVlI3uQie6SAZVQRmdUq1S2QZhZtQAb3vqErQ5cOSq1jbgnJ3sov331bGPPfM7qcoSd5W6UgcljICpenw7FErr8Zs8fESN0pxEtc5ouHY7KumxZcTEK_3Q48Q_bGRzEzvdznRbrbkw<br/><br/>
+2014/25/02 10:31:26 : New device registration 358240057471450 | APA91bHw9pYrrMj37OwdXCuqzcAFbC6wl336OvzF2ieW0zHiv1L93kkOy4rrCijwM9ULuHF6puM07TIl5GNcTsGmqWlgglDxIkq_R4aYUTKGMgy7dO1nvN6e1D81F6ghHq_dkKjaIN33sXnyYekiwxmvSJcGQFKxKw<br/><br/>
+2014/25/02 21:23:14 : New device registration 352110051082007 | APA91bHt1fT1nv5wqzSOmn6o5mo6-gv_5TwQR056j2kwxfaP_2-aEqhGSuaXFw0iZ6HYKwfgns3sQDwyx2E1VkvgXwtd4-HzyA-jU2nNiLx8oIJesYgGLmeSRYy4gnJ6dEWYxflsmcuVgVb8jPpMkFSTr3pXPvd4-A<br/><br/>
+2014/26/02 01:01:10 : New device registration 358918054082293 | APA91bELo-IcooPWcEsU5qQSVCd8n8UToYzwcn-6kJSX1Zg59J2E35yDkAAfCmNPBLugYrAm26lGRgm1k76AA8cvpbYWXfGAVgnWco9BfueE1L30PMDmI3mwS0P8TdVmo9ylK5ajR9wyzSg3va8jVgSg_69xKU900g<br/><br/>
+2014/26/02 07:29:24 : New device registration 354314050104006 | APA91bGRty7T-EixaYK67J4jZQnGTHRcaJ9KViy5VYZHH9EU2rZqf8xgLQV-ddchWA4mR928lbjqWsXRwI3_Lt3YXNTjIFr71Ve_EJqty3flkloVUs3jEgolMOJ8AOyZ2KRJSciszOezxLE2nITtgeHbIVWBgkAsrg<br/><br/>
+2014/28/02 17:16:12 : New device registration 356899050295042 | APA91bEx6qL1dmbvbBNuAFjkSW2pDa9jFnUa6VYDP6ih7rph9XlRSNyBw0OYtlPdy1UKW8D1L-nJJmN5fHQivE5NOoaYf8FM6qPdFNoBYA8S2P7C-J-krpvbUlWkmSh85bpdXRDsN5nUODdFpFM1TfiHcKNJOdsgfg<br/><br/>
+2014/01/03 18:00:49 : New device registration 357189053056933 | APA91bF42AK07BvPgImIftueyvYtxwQTi_ErdpIxgAH-ujmIGykJnjO7QUXtU1tjfsijLLUIR-bwHSF1_AOiLoavAObibl3N2_bflnTj8JleaFG31tumIh-RKs7H_AjSfSOUL3FiI-dKejB-uqPfhOduxgKtMbrx9w<br/><br/>
+2014/02/03 19:15:52 : New device registration 352306050111777 | APA91bHR8VTzCduzP37-gFlONRivN3v8L33Am09pv9yaDrRDaMtgYcTqVj-sNmaLH9pJUAhgNwcjn1Iw4lxPhCa-O057B57KQmRx_8pc04eBAbU0xwZ54IuHkrwQzoB-PC_TKSP3D5R0mWfoii93rLHHLJRvTwK58w<br/><br/>
+2014/03/03 10:04:06 : New device registration 355431054053754 | APA91bExp-aQZnGqKtB4EQYcnrQGs6tkS5EepJAH_XTdOo-wwWognJwPyHOOOSpQOKwFHMQhDQ0uaLmQ1CRlLw6KyXlzsOoqJ4Ub8W_orUFmqJC2_R51vCV4_9SY9ix3uD4MWgCLDnHCkxNBYDxbmuvC3IQyKil1Xw<br/><br/>
+2014/04/03 00:01:37 : New device registration 911304256243670 | APA91bG_LHMGXjQwFGyVmiQ_Q_-KOjTfT84eYpvGIvTKXIPh-EMBwcqxWYHiiS4--StJGNrsbwhfhHBxUCkuxIxS4JehGavHsNUCY7eU8_yz_7j2sSzOKFyYs-bfN0iRb_Tgcgo-JfByzTBD5T5BMaOt3KN8M-Tt7A<br/><br/>
+2014/07/03 19:38:19 : New device registration 357091050756913 | APA91bE0uS_j3YcyOnTULph86nJrpJXhpw2kYeoQkzw3cXrGna3f6AIgnUXfKmPcUDAJ0ily-q5QdqxShvXjF9kPbqKDp7KgGZzFy4k8SxtDLLkX_gbzQo2OC4uPmZYEXfjCMd-cGSQSrNXmKLGZS13f4phXuIbXsw<br/><br/>
+2014/11/03 02:31:47 : New device registration 353101050237642 | APA91bHkAtUkKnOLBYshCBDK-7rYReub64jSc_6hdoL3FNhBMDGO-i0WyMvvyuo8xtUTqZ9WSROanHPl1RC5eW2906YBn5v8yIPJm4D4OiYbGP_W4KFeq70PW9lgOeDNfsSv5pWfEj7d5SG-EmsdJ4AvF0aKAJYY_A<br/><br/>
+2014/12/03 21:43:27 : New device registration 359041050499046 | APA91bHSufCO2iR4eUimJx8HssmlPZNLWmtwR8hzoLVee8OA5jeqloBXJdVLD5qugwrRX00yOORqfrkETaRWjvw8Uo5iBYqtFvcy41iODF8yi_Pgo5VsGd6ai-bgTdd1Ea_fI2Q3aA3SyfJNNoRDZSeuViyINQnjYQ<br/><br/>
+2014/13/03 00:20:56 : New device registration 359807043919674 | APA91bFaJ7AsTAryxRnu5N9v9Tioqth1mY9_CgoAm7YEPPAUTlQHYc2uAH2WFmOSXutZviVmv5OXtxvKeA1jZcKiyR-ehPmjYOovZuvK9LTvr7JPjkJMeM31xsqyhQPxXWpYATpwbjl8nR3YWD3WokSGk5Qt9TM0wA<br/><br/>

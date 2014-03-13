@@ -1,0 +1,463 @@
+2014/22/01 14:30:39 admin: Logs cleared.<br/><br/>
+2014/22/01 14:42:06 admin: New entry in Sponsors (id=6)<br/><br/>
+2014/22/01 14:42:38 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/error.png<br/><br/>
+2014/22/01 14:42:38 admin: New entry in Sponsors (id=7)<br/><br/>
+2014/22/01 14:59:19 : New entry in Devices (id=2)<br/><br/>
+2014/22/01 15:06:27 : Entry updated in Devices (id=2)<br/><br/>
+2014/22/01 15:27:29 : Entry updated in Devices (id=2)<br/><br/>
+2014/22/01 15:33:14 admin: New entry in Updates (id=1)<br/><br/>
+2014/22/01 15:35:58 : Entry updated in Devices (id=2)<br/><br/>
+2014/22/01 15:53:10 : New entry in Devices (id=3)<br/><br/>
+2014/22/01 17:43:26 : New entry in Devices (id=4)<br/><br/>
+2014/22/01 17:44:14 : Entry updated in Devices (id=4)<br/><br/>
+2014/22/01 17:54:00 : New entry in Devices (id=5)<br/><br/>
+2014/22/01 18:33:34 admin: Logged in<br/><br/>
+2014/22/01 19:50:45 admin: Logged in<br/><br/>
+2014/22/01 19:53:32 admin: Logged out<br/><br/>
+2014/22/01 19:57:29 : Entry updated in Devices (id=1)<br/><br/>
+2014/22/01 19:58:32 admin: Logged in<br/><br/>
+2014/22/01 20:00:21 admin: New entry in Updates (id=2)<br/><br/>
+2014/22/01 20:00:55 admin: Entry deleted from Updates (id=2)<br/><br/>
+2014/22/01 20:20:35 : New entry in Devices (id=6)<br/><br/>
+2014/22/01 20:27:18 : New entry in Devices (id=7)<br/><br/>
+2014/22/01 20:32:23 : New entry in Devices (id=8)<br/><br/>
+2014/22/01 20:33:47 admin: Logged in<br/><br/>
+2014/22/01 20:33:59 admin: Entry deleted from Sponsors (id=6)<br/><br/>
+2014/22/01 20:34:02 admin: Entry deleted from Sponsors (id=7)<br/><br/>
+2014/22/01 20:34:53 admin: Entry updated in Events (id=2)<br/><br/>
+2014/22/01 20:35:05 admin: Entry updated in Events (id=2)<br/><br/>
+2014/22/01 20:35:35 admin: Entry updated in Events (id=3)<br/><br/>
+2014/22/01 20:36:22 admin: Entry updated in Events (id=3)<br/><br/>
+2014/22/01 20:37:38 : New entry in Devices (id=9)<br/><br/>
+2014/22/01 20:37:44 admin: Logged out<br/><br/>
+2014/22/01 20:38:02 admin: Logged in<br/><br/>
+2014/22/01 20:39:40 : New entry in Devices (id=10)<br/><br/>
+2014/22/01 20:39:46 admin: Entry updated in Users (id=2)<br/><br/>
+2014/22/01 20:40:19 : New entry in Devices (id=11)<br/><br/>
+2014/22/01 20:40:52 admin: Logged out<br/><br/>
+2014/22/01 21:01:10 : New entry in Devices (id=12)<br/><br/>
+2014/22/01 21:16:10 : New entry in Devices (id=13)<br/><br/>
+2014/22/01 22:41:19 : New entry in Devices (id=14)<br/><br/>
+2014/22/01 23:16:24 : New entry in Devices (id=15)<br/><br/>
+2014/22/01 23:52:52 : New entry in Devices (id=16)<br/><br/>
+2014/23/01 00:14:07 : New entry in Devices (id=17)<br/><br/>
+2014/23/01 00:28:44 : New entry in Devices (id=18)<br/><br/>
+2014/23/01 00:50:25 : New entry in Devices (id=19)<br/><br/>
+2014/23/01 01:37:26 : New entry in Devices (id=20)<br/><br/>
+2014/23/01 02:08:09 : New entry in Devices (id=21)<br/><br/>
+2014/23/01 08:17:26 : New entry in Devices (id=22)<br/><br/>
+2014/23/01 08:58:59 : New entry in Devices (id=23)<br/><br/>
+2014/23/01 10:19:04 : New entry in Devices (id=24)<br/><br/>
+2014/23/01 10:32:10 : New entry in Devices (id=25)<br/><br/>
+2014/23/01 10:55:09 : New entry in Devices (id=26)<br/><br/>
+2014/23/01 11:04:54 : New entry in Devices (id=27)<br/><br/>
+2014/23/01 11:56:11 : New entry in Devices (id=28)<br/><br/>
+2014/23/01 12:41:59 : New entry in Devices (id=29)<br/><br/>
+2014/23/01 13:43:29 : New entry in Devices (id=30)<br/><br/>
+2014/23/01 15:06:18 : New entry in Devices (id=31)<br/><br/>
+2014/23/01 15:08:59 : New entry in Devices (id=32)<br/><br/>
+2014/23/01 15:11:44 : New entry in Devices (id=33)<br/><br/>
+2014/23/01 18:47:35 : New entry in Devices (id=34)<br/><br/>
+2014/23/01 19:24:31 : New entry in Devices (id=35)<br/><br/>
+2014/23/01 20:53:44 : New entry in Devices (id=36)<br/><br/>
+2014/23/01 22:04:13 : New entry in Devices (id=37)<br/><br/>
+2014/23/01 22:20:17 : New entry in Devices (id=38)<br/><br/>
+2014/23/01 22:26:54 : New entry in Devices (id=39)<br/><br/>
+2014/23/01 23:11:07 : New entry in Devices (id=40)<br/><br/>
+2014/23/01 23:11:24 : New entry in Devices (id=41)<br/><br/>
+2014/24/01 00:39:43 : New entry in Devices (id=42)<br/><br/>
+2014/24/01 00:53:05 : New entry in Devices (id=43)<br/><br/>
+2014/24/01 01:26:04 : New entry in Devices (id=44)<br/><br/>
+2014/24/01 01:51:04 : New entry in Devices (id=45)<br/><br/>
+2014/24/01 10:27:51 : New entry in Devices (id=46)<br/><br/>
+2014/24/01 10:45:33 : New entry in Devices (id=47)<br/><br/>
+2014/24/01 15:12:41 : New entry in Devices (id=48)<br/><br/>
+2014/24/01 15:55:11 : New entry in Devices (id=49)<br/><br/>
+2014/24/01 16:33:35 : New entry in Devices (id=50)<br/><br/>
+2014/24/01 18:14:19 : New entry in Devices (id=51)<br/><br/>
+2014/25/01 03:10:32 : New entry in Devices (id=52)<br/><br/>
+2014/25/01 08:47:34 : New entry in Devices (id=53)<br/><br/>
+2014/25/01 09:19:48 : New entry in Devices (id=54)<br/><br/>
+2014/25/01 12:02:49 : New entry in Devices (id=55)<br/><br/>
+2014/25/01 16:57:59 : New entry in Devices (id=56)<br/><br/>
+2014/25/01 18:37:42 : New entry in Devices (id=57)<br/><br/>
+2014/25/01 19:44:07 : New entry in Devices (id=58)<br/><br/>
+2014/25/01 19:47:10 : New entry in Devices (id=59)<br/><br/>
+2014/25/01 21:16:43 : New entry in Devices (id=60)<br/><br/>
+2014/26/01 00:07:26 : New entry in Devices (id=61)<br/><br/>
+2014/26/01 13:23:32 : New entry in Devices (id=62)<br/><br/>
+2014/26/01 20:25:08 : New entry in Devices (id=63)<br/><br/>
+2014/26/01 20:38:47 admin: Logged in<br/><br/>
+2014/26/01 20:51:48 : New entry in Devices (id=64)<br/><br/>
+2014/26/01 21:02:07 : New entry in Devices (id=65)<br/><br/>
+2014/26/01 21:18:15 : New entry in Devices (id=66)<br/><br/>
+2014/26/01 21:26:49 : New entry in Devices (id=67)<br/><br/>
+2014/26/01 21:30:53 : New entry in Devices (id=68)<br/><br/>
+2014/26/01 21:33:32 : New entry in Devices (id=69)<br/><br/>
+2014/26/01 21:33:59 : New entry in Devices (id=70)<br/><br/>
+2014/26/01 21:36:24 : New entry in Devices (id=71)<br/><br/>
+2014/26/01 21:41:13 : New entry in Devices (id=72)<br/><br/>
+2014/26/01 22:11:24 : New entry in Devices (id=73)<br/><br/>
+2014/26/01 22:16:58 : New entry in Devices (id=74)<br/><br/>
+2014/26/01 23:21:54 : Entry updated in Devices (id=21)<br/><br/>
+2014/26/01 23:31:01 : New entry in Devices (id=75)<br/><br/>
+2014/26/01 23:31:26 : New entry in Devices (id=76)<br/><br/>
+2014/26/01 23:35:34 admin: Logged in<br/><br/>
+2014/26/01 23:37:22 admin: Logged out<br/><br/>
+2014/27/01 01:11:29 : New entry in Devices (id=77)<br/><br/>
+2014/27/01 10:04:25 : New entry in Devices (id=78)<br/><br/>
+2014/27/01 13:27:48 : Entry updated in Devices (id=33)<br/><br/>
+2014/27/01 13:44:20 admin: Logged in<br/><br/>
+2014/27/01 13:45:37 admin: Logged out<br/><br/>
+2014/27/01 13:47:38 admin: Logged in<br/><br/>
+2014/27/01 14:19:56 admin: Logged in<br/><br/>
+2014/27/01 14:48:58 : New entry in Devices (id=79)<br/><br/>
+2014/27/01 16:22:40 : New entry in Devices (id=80)<br/><br/>
+2014/27/01 16:55:40 : New entry in Devices (id=81)<br/><br/>
+2014/27/01 20:54:42 : New entry in Devices (id=82)<br/><br/>
+2014/27/01 21:04:18 : New entry in Devices (id=83)<br/><br/>
+2014/27/01 21:08:20 : New entry in Devices (id=84)<br/><br/>
+2014/28/01 11:17:59 : New entry in Devices (id=85)<br/><br/>
+2014/28/01 15:45:27 admin: Logged out<br/><br/>
+2014/28/01 15:45:29 admin: Logged in<br/><br/>
+2014/28/01 19:15:09 : New entry in Devices (id=86)<br/><br/>
+2014/28/01 21:43:10 : New entry in Devices (id=87)<br/><br/>
+2014/28/01 21:47:18 : New entry in Devices (id=88)<br/><br/>
+2014/28/01 23:42:43 : New entry in Devices (id=89)<br/><br/>
+2014/29/01 00:43:57 : New entry in Devices (id=90)<br/><br/>
+2014/29/01 19:02:11 admin: Logged in<br/><br/>
+2014/29/01 19:17:09 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/Byju1.png<br/><br/>
+2014/29/01 19:17:09 admin: New entry in Sponsors (id=8)<br/><br/>
+2014/29/01 19:22:07 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/eBayIncLogo20121.jpg<br/><br/>
+2014/29/01 19:22:07 admin: New entry in Sponsors (id=9)<br/><br/>
+2014/29/01 19:32:08 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/spjainsite.jpg<br/><br/>
+2014/29/01 19:32:08 admin: New entry in Sponsors (id=10)<br/><br/>
+2014/29/01 19:34:21 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/hindu-e1390723077603.jpg<br/><br/>
+2014/29/01 19:34:21 admin: New entry in Sponsors (id=11)<br/><br/>
+2014/29/01 19:36:58 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac2.jpg<br/><br/>
+2014/29/01 19:36:58 admin: New entry in Sponsors (id=12)<br/><br/>
+2014/29/01 19:37:02 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac21.jpg<br/><br/>
+2014/29/01 19:37:02 admin: New entry in Sponsors (id=13)<br/><br/>
+2014/29/01 19:37:05 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac22.jpg<br/><br/>
+2014/29/01 19:37:05 admin: New entry in Sponsors (id=14)<br/><br/>
+2014/29/01 19:37:09 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac23.jpg<br/><br/>
+2014/29/01 19:37:09 admin: New entry in Sponsors (id=15)<br/><br/>
+2014/29/01 19:37:13 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac24.jpg<br/><br/>
+2014/29/01 19:37:13 admin: New entry in Sponsors (id=16)<br/><br/>
+2014/29/01 19:37:18 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac25.jpg<br/><br/>
+2014/29/01 19:37:18 admin: New entry in Sponsors (id=17)<br/><br/>
+2014/29/01 19:37:23 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac26.jpg<br/><br/>
+2014/29/01 19:37:23 admin: New entry in Sponsors (id=18)<br/><br/>
+2014/29/01 19:37:27 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac27.jpg<br/><br/>
+2014/29/01 19:37:27 admin: New entry in Sponsors (id=19)<br/><br/>
+2014/29/01 19:37:32 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac28.jpg<br/><br/>
+2014/29/01 19:37:32 admin: New entry in Sponsors (id=20)<br/><br/>
+2014/29/01 19:37:35 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac29.jpg<br/><br/>
+2014/29/01 19:37:35 admin: New entry in Sponsors (id=21)<br/><br/>
+2014/29/01 19:37:40 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac210.jpg<br/><br/>
+2014/29/01 19:37:40 admin: New entry in Sponsors (id=22)<br/><br/>
+2014/29/01 19:37:43 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/SAP_UniversityAlliances_R_pos_stac211.jpg<br/><br/>
+2014/29/01 19:37:43 admin: New entry in Sponsors (id=23)<br/><br/>
+2014/29/01 19:43:53 admin: New entry in Sponsors (id=24)<br/><br/>
+2014/29/01 19:44:48 admin: Entry deleted from Sponsors (id=13)<br/><br/>
+2014/29/01 19:44:51 admin: Entry deleted from Sponsors (id=14)<br/><br/>
+2014/29/01 19:44:54 admin: Entry deleted from Sponsors (id=15)<br/><br/>
+2014/29/01 19:44:57 admin: Entry deleted from Sponsors (id=16)<br/><br/>
+2014/29/01 19:44:59 admin: Entry deleted from Sponsors (id=17)<br/><br/>
+2014/29/01 19:45:02 admin: Entry deleted from Sponsors (id=18)<br/><br/>
+2014/29/01 19:45:05 admin: Entry deleted from Sponsors (id=19)<br/><br/>
+2014/29/01 19:45:07 admin: Entry deleted from Sponsors (id=20)<br/><br/>
+2014/29/01 19:45:10 admin: Entry deleted from Sponsors (id=21)<br/><br/>
+2014/29/01 19:45:13 admin: Entry deleted from Sponsors (id=22)<br/><br/>
+2014/29/01 19:45:16 admin: Entry deleted from Sponsors (id=23)<br/><br/>
+2014/29/01 19:45:28 admin: Entry deleted from Sponsors (id=24)<br/><br/>
+2014/29/01 19:47:18 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/Study-in-holland1site.png<br/><br/>
+2014/29/01 19:47:18 admin: New entry in Sponsors (id=25)<br/><br/>
+2014/29/01 19:50:27 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/Scientechtemp.jpg<br/><br/>
+2014/29/01 19:50:27 admin: New entry in Sponsors (id=26)<br/><br/>
+2014/29/01 19:53:35 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/adventz1.png<br/><br/>
+2014/29/01 19:53:35 admin: New entry in Sponsors (id=27)<br/><br/>
+2014/29/01 19:55:25 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/2013_NSDLlogo-e1390914254369.jpg<br/><br/>
+2014/29/01 19:55:25 admin: New entry in Sponsors (id=28)<br/><br/>
+2014/29/01 19:57:44 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/wildcraft-e1390987048462.png<br/><br/>
+2014/29/01 19:57:44 admin: New entry in Sponsors (id=29)<br/><br/>
+2014/29/01 19:59:53 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/TPS-Logo-e1390830926427.png<br/><br/>
+2014/29/01 19:59:53 admin: New entry in Sponsors (id=30)<br/><br/>
+2014/29/01 20:02:15 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/Kaysons1.png<br/><br/>
+2014/29/01 20:02:15 admin: New entry in Sponsors (id=31)<br/><br/>
+2014/29/01 20:04:23 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/dual-branding-stacker-e1390830826377.jpg<br/><br/>
+2014/29/01 20:04:23 admin: New entry in Sponsors (id=32)<br/><br/>
+2014/29/01 20:06:26 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/logo-thinklayer1-e1390914621158.png<br/><br/>
+2014/29/01 20:06:26 admin: New entry in Sponsors (id=33)<br/><br/>
+2014/29/01 20:10:01 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/BBC-Knowledge1.png<br/><br/>
+2014/29/01 20:10:01 admin: New entry in Sponsors (id=34)<br/><br/>
+2014/29/01 20:12:30 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/putzmeister-e1390987066694.jpg<br/><br/>
+2014/29/01 20:12:30 admin: New entry in Sponsors (id=35)<br/><br/>
+2014/29/01 20:15:30 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/business-eco1.png<br/><br/>
+2014/29/01 20:15:30 admin: New entry in Sponsors (id=36)<br/><br/>
+2014/29/01 20:17:42 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/logonewex_1.png<br/><br/>
+2014/29/01 20:17:42 admin: New entry in Sponsors (id=37)<br/><br/>
+2014/29/01 20:22:01 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/engineering-review.png<br/><br/>
+2014/29/01 20:22:01 admin: New entry in Sponsors (id=38)<br/><br/>
+2014/29/01 20:24:14 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/dalal-street1.png<br/><br/>
+2014/29/01 20:24:14 admin: New entry in Sponsors (id=39)<br/><br/>
+2014/29/01 20:27:55 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/Electronics-for-u-magazine_new-logo-e1390673517885.jpg<br/><br/>
+2014/29/01 20:27:55 admin: New entry in Sponsors (id=40)<br/><br/>
+2014/29/01 20:30:10 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/thetechy1.png<br/><br/>
+2014/29/01 20:30:10 admin: New entry in Sponsors (id=41)<br/><br/>
+2014/29/01 20:32:55 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/thinkdigit1.png<br/><br/>
+2014/29/01 20:32:55 admin: New entry in Sponsors (id=42)<br/><br/>
+2014/29/01 20:34:45 admin: File uploaded /var/chroot/home/content/93/11956393/html/mobappclub/quark/images/sponsors/GSC1.png<br/><br/>
+2014/29/01 20:34:45 admin: New entry in Sponsors (id=43)<br/><br/>
+2014/29/01 20:35:03 admin: Logged out<br/><br/>
+2014/30/01 11:05:52 : New entry in Devices (id=91)<br/><br/>
+2014/30/01 20:07:08 : New entry in Devices (id=92)<br/><br/>
+2014/31/01 03:35:38 : New entry in Devices (id=93)<br/><br/>
+2014/31/01 19:16:12 : New entry in Devices (id=94)<br/><br/>
+2014/31/01 20:11:54 : New entry in Devices (id=95)<br/><br/>
+2014/31/01 21:45:25 : Entry updated in Devices (id=6)<br/><br/>
+2014/01/02 09:23:28 : New entry in Devices (id=96)<br/><br/>
+2014/01/02 19:40:07 : New entry in Devices (id=97)<br/><br/>
+2014/01/02 22:12:20 : Entry updated in Devices (id=21)<br/><br/>
+2014/01/02 22:19:34 : Entry updated in Devices (id=6)<br/><br/>
+2014/01/02 22:33:49 : Entry updated in Devices (id=21)<br/><br/>
+2014/01/02 22:56:24 : Entry updated in Devices (id=6)<br/><br/>
+2014/01/02 23:07:40 : Entry updated in Devices (id=6)<br/><br/>
+2014/01/02 23:10:59 : Entry updated in Devices (id=6)<br/><br/>
+2014/01/02 23:13:14 admin: Logged in<br/><br/>
+2014/01/02 23:13:52 admin: Entry updated in Events (id=6)<br/><br/>
+2014/01/02 23:14:57 admin: Logged out<br/><br/>
+2014/01/02 23:58:49 : New entry in Devices (id=98)<br/><br/>
+2014/02/02 00:34:31 admin: Logged in<br/><br/>
+2014/02/02 00:34:58 admin: Logged out<br/><br/>
+2014/02/02 01:15:44 : New entry in Devices (id=99)<br/><br/>
+2014/02/02 01:16:00 : New entry in Devices (id=100)<br/><br/>
+2014/02/02 01:39:21 : New entry in Devices (id=101)<br/><br/>
+2014/02/02 01:43:13 : New entry in Devices (id=102)<br/><br/>
+2014/02/02 01:57:27 : New entry in Devices (id=103)<br/><br/>
+2014/02/02 02:26:30 : New entry in Devices (id=104)<br/><br/>
+2014/02/02 02:42:27 : New entry in Devices (id=105)<br/><br/>
+2014/02/02 03:07:51 : New entry in Devices (id=106)<br/><br/>
+2014/02/02 04:31:41 : New entry in Devices (id=107)<br/><br/>
+2014/02/02 04:40:16 : New entry in Devices (id=108)<br/><br/>
+2014/02/02 05:09:18 : New entry in Devices (id=109)<br/><br/>
+2014/02/02 06:50:06 : New entry in Devices (id=110)<br/><br/>
+2014/02/02 09:20:31 : New entry in Devices (id=111)<br/><br/>
+2014/02/02 09:31:12 : New entry in Devices (id=112)<br/><br/>
+2014/02/02 10:10:03 : New entry in Devices (id=113)<br/><br/>
+2014/02/02 11:41:29 : New entry in Devices (id=114)<br/><br/>
+2014/02/02 11:42:57 : New entry in Devices (id=115)<br/><br/>
+2014/02/02 11:45:23 : Entry updated in Devices (id=115)<br/><br/>
+2014/02/02 12:14:53 : New entry in Devices (id=116)<br/><br/>
+2014/02/02 12:15:05 : New entry in Devices (id=117)<br/><br/>
+2014/02/02 13:06:40 : New entry in Devices (id=118)<br/><br/>
+2014/02/02 13:45:49 : New entry in Devices (id=119)<br/><br/>
+2014/02/02 14:39:14 : New entry in Devices (id=120)<br/><br/>
+2014/02/02 15:33:38 : New entry in Devices (id=121)<br/><br/>
+2014/02/02 15:44:16 : New entry in Devices (id=122)<br/><br/>
+2014/02/02 16:27:49 : New entry in Devices (id=123)<br/><br/>
+2014/02/02 17:20:06 : New entry in Devices (id=124)<br/><br/>
+2014/02/02 18:31:34 : New entry in Devices (id=125)<br/><br/>
+2014/02/02 19:06:23 : New entry in Devices (id=126)<br/><br/>
+2014/02/02 19:09:29 : New entry in Devices (id=127)<br/><br/>
+2014/02/02 19:47:11 : New entry in Devices (id=128)<br/><br/>
+2014/02/02 20:34:37 : Entry updated in Devices (id=102)<br/><br/>
+2014/02/02 22:59:32 : New entry in Devices (id=129)<br/><br/>
+2014/02/02 23:02:48 : New entry in Devices (id=130)<br/><br/>
+2014/02/02 23:41:03 : Entry updated in Devices (id=21)<br/><br/>
+2014/03/02 00:30:02 : New entry in Devices (id=131)<br/><br/>
+2014/03/02 01:00:31 : New entry in Devices (id=132)<br/><br/>
+2014/03/02 07:21:45 : New entry in Devices (id=133)<br/><br/>
+2014/03/02 09:53:56 : Entry updated in Devices (id=68)<br/><br/>
+2014/03/02 09:54:48 : New entry in Devices (id=134)<br/><br/>
+2014/03/02 11:09:07 : Entry updated in Devices (id=90)<br/><br/>
+2014/03/02 11:48:25 : Entry updated in Devices (id=75)<br/><br/>
+2014/03/02 12:59:50 : New entry in Devices (id=135)<br/><br/>
+2014/03/02 13:00:24 : Entry updated in Devices (id=135)<br/><br/>
+2014/03/02 13:08:30 : New entry in Devices (id=136)<br/><br/>
+2014/03/02 13:08:41 admin: Logged in<br/><br/>
+2014/03/02 13:10:26 admin: Logged out<br/><br/>
+2014/03/02 13:14:10 : New entry in Devices (id=137)<br/><br/>
+2014/03/02 15:19:54 : New entry in Devices (id=138)<br/><br/>
+2014/03/02 15:47:30 : Entry updated in Devices (id=91)<br/><br/>
+2014/03/02 16:53:13 : Entry updated in Devices (id=36)<br/><br/>
+2014/03/02 17:32:51 : New entry in Devices (id=139)<br/><br/>
+2014/03/02 18:44:34 : New entry in Devices (id=140)<br/><br/>
+2014/03/02 18:47:39 : New entry in Devices (id=141)<br/><br/>
+2014/03/02 23:09:26 : New entry in Devices (id=142)<br/><br/>
+2014/04/02 01:17:55 : Entry updated in Devices (id=44)<br/><br/>
+2014/04/02 06:15:27 : New entry in Devices (id=143)<br/><br/>
+2014/04/02 10:18:41 : Entry updated in Devices (id=1)<br/><br/>
+2014/04/02 10:29:19 : Entry updated in Devices (id=13)<br/><br/>
+2014/04/02 12:24:27 : Entry updated in Devices (id=64)<br/><br/>
+2014/04/02 13:51:05 admin: Logged in<br/><br/>
+2014/04/02 16:34:11 : Entry updated in Devices (id=6)<br/><br/>
+2014/04/02 17:32:45 : Entry updated in Devices (id=138)<br/><br/>
+2014/04/02 17:53:26 : New entry in Devices (id=144)<br/><br/>
+2014/04/02 23:51:16 admin: Logged in<br/><br/>
+2014/04/02 23:52:29 admin: Logged out<br/><br/>
+2014/05/02 01:57:02 : New entry in Devices (id=145)<br/><br/>
+2014/05/02 02:04:14 : New entry in Devices (id=146)<br/><br/>
+2014/05/02 02:06:53 : New entry in Devices (id=147)<br/><br/>
+2014/05/02 09:30:34 : Entry updated in Devices (id=115)<br/><br/>
+2014/05/02 10:41:20 : Entry updated in Devices (id=55)<br/><br/>
+2014/05/02 11:39:05 : Entry updated in Devices (id=11)<br/><br/>
+2014/05/02 13:07:38 : Entry updated in Devices (id=1)<br/><br/>
+2014/05/02 15:11:31 : New entry in Devices (id=148)<br/><br/>
+2014/05/02 17:59:32 : New entry in Devices (id=149)<br/><br/>
+2014/05/02 18:11:05 : New entry in Devices (id=150)<br/><br/>
+2014/05/02 22:41:07 : New entry in Devices (id=151)<br/><br/>
+2014/06/02 03:45:14 : New entry in Devices (id=152)<br/><br/>
+2014/06/02 06:18:10 : New entry in Devices (id=153)<br/><br/>
+2014/06/02 08:43:52 : New entry in Devices (id=154)<br/><br/>
+2014/06/02 08:56:10 : Entry updated in Devices (id=99)<br/><br/>
+2014/06/02 10:23:43 : New entry in Devices (id=155)<br/><br/>
+2014/06/02 10:28:44 : Entry updated in Devices (id=67)<br/><br/>
+2014/06/02 10:44:39 : New entry in Devices (id=156)<br/><br/>
+2014/06/02 10:57:46 : New entry in Devices (id=157)<br/><br/>
+2014/06/02 11:39:03 : New entry in Devices (id=158)<br/><br/>
+2014/06/02 12:01:41 admin: Logged in<br/><br/>
+2014/06/02 12:01:56 admin: Logged out<br/><br/>
+2014/06/02 12:34:12 : New entry in Devices (id=159)<br/><br/>
+2014/06/02 13:45:45 : Entry updated in Devices (id=47)<br/><br/>
+2014/06/02 13:46:19 : New entry in Devices (id=160)<br/><br/>
+2014/06/02 17:26:36 : New entry in Devices (id=161)<br/><br/>
+2014/06/02 17:31:10 : New entry in Devices (id=162)<br/><br/>
+2014/06/02 19:06:39 : New entry in Devices (id=163)<br/><br/>
+2014/06/02 19:22:02 : Entry updated in Devices (id=46)<br/><br/>
+2014/06/02 19:36:46 : Entry updated in Devices (id=28)<br/><br/>
+2014/06/02 21:35:20 : New entry in Devices (id=164)<br/><br/>
+2014/06/02 21:35:50 : New entry in Devices (id=165)<br/><br/>
+2014/06/02 22:17:03 : New entry in Devices (id=166)<br/><br/>
+2014/06/02 23:01:20 : New entry in Devices (id=167)<br/><br/>
+2014/07/02 01:06:04 : New entry in Devices (id=168)<br/><br/>
+2014/07/02 01:07:07 : New entry in Devices (id=169)<br/><br/>
+2014/07/02 01:19:09 : New entry in Devices (id=170)<br/><br/>
+2014/07/02 04:33:06 : Entry updated in Devices (id=63)<br/><br/>
+2014/07/02 08:29:37 : New entry in Devices (id=171)<br/><br/>
+2014/07/02 09:33:25 : New entry in Devices (id=172)<br/><br/>
+2014/07/02 10:14:26 admin: Logged in<br/><br/>
+2014/07/02 10:14:31 : New entry in Devices (id=173)<br/><br/>
+2014/07/02 10:17:05 admin: Entry updated in Events (id=2)<br/><br/>
+2014/07/02 10:20:12 admin: Entry updated in Events (id=2)<br/><br/>
+2014/07/02 10:21:06 admin: Entry updated in Workshops (id=6)<br/><br/>
+2014/07/02 10:21:33 admin: Entry updated in Workshops (id=1)<br/><br/>
+2014/07/02 10:22:43 admin: Entry updated in Workshops (id=2)<br/><br/>
+2014/07/02 10:22:54 admin: Entry updated in Workshops (id=7)<br/><br/>
+2014/07/02 10:23:15 admin: Entry updated in Workshops (id=6)<br/><br/>
+2014/07/02 10:24:04 admin: Logged out<br/><br/>
+2014/07/02 11:01:01 : New entry in Devices (id=174)<br/><br/>
+2014/07/02 11:13:07 : Entry updated in Devices (id=83)<br/><br/>
+2014/07/02 11:29:16 : New entry in Devices (id=175)<br/><br/>
+2014/07/02 12:25:54 : Entry updated in Devices (id=121)<br/><br/>
+2014/07/02 12:46:29 admin: Logged in<br/><br/>
+2014/07/02 12:48:30 admin: Logged out<br/><br/>
+2014/07/02 13:15:23 : New entry in Devices (id=176)<br/><br/>
+2014/07/02 14:02:32 : Entry updated in Devices (id=17)<br/><br/>
+2014/07/02 14:20:15 : New entry in Devices (id=177)<br/><br/>
+2014/07/02 14:29:03 : New entry in Devices (id=178)<br/><br/>
+2014/07/02 14:37:28 : New entry in Devices (id=179)<br/><br/>
+2014/07/02 14:43:04 : Entry updated in Devices (id=115)<br/><br/>
+2014/07/02 14:53:21 admin: Logged in<br/><br/>
+2014/07/02 14:56:23 admin: Entry updated in Events (id=3)<br/><br/>
+2014/07/02 14:57:14 admin: Entry updated in Events (id=5)<br/><br/>
+2014/07/02 14:57:33 admin: Entry updated in Events (id=7)<br/><br/>
+2014/07/02 14:58:02 admin: Entry updated in Events (id=8)<br/><br/>
+2014/07/02 14:58:31 admin: Entry updated in Events (id=9)<br/><br/>
+2014/07/02 14:58:49 admin: Entry updated in Events (id=10)<br/><br/>
+2014/07/02 14:59:14 admin: Entry updated in Events (id=11)<br/><br/>
+2014/07/02 15:03:59 admin: Entry updated in Events (id=12)<br/><br/>
+2014/07/02 15:04:13 admin: Entry updated in Events (id=13)<br/><br/>
+2014/07/02 15:04:43 admin: Entry updated in Events (id=14)<br/><br/>
+2014/07/02 15:05:14 admin: Entry updated in Events (id=15)<br/><br/>
+2014/07/02 15:05:31 admin: Entry updated in Events (id=16)<br/><br/>
+2014/07/02 15:05:55 admin: Entry updated in Events (id=17)<br/><br/>
+2014/07/02 15:06:14 admin: Entry updated in Events (id=18)<br/><br/>
+2014/07/02 15:07:04 admin: Entry updated in Events (id=21)<br/><br/>
+2014/07/02 15:07:36 admin: Entry updated in Events (id=25)<br/><br/>
+2014/07/02 15:08:12 admin: Entry updated in Events (id=27)<br/><br/>
+2014/07/02 15:08:37 admin: Entry updated in Events (id=24)<br/><br/>
+2014/07/02 15:09:03 admin: Entry updated in Events (id=23)<br/><br/>
+2014/07/02 15:09:20 admin: Entry updated in Events (id=28)<br/><br/>
+2014/07/02 15:10:04 admin: Entry updated in Events (id=30)<br/><br/>
+2014/07/02 15:10:15 admin: Entry updated in Events (id=29)<br/><br/>
+2014/07/02 15:10:29 admin: Entry updated in Events (id=31)<br/><br/>
+2014/07/02 15:10:58 admin: Entry updated in Workshops (id=4)<br/><br/>
+2014/07/02 15:11:13 admin: Entry updated in Workshops (id=3)<br/><br/>
+2014/07/02 15:45:44 : New entry in Devices (id=180)<br/><br/>
+2014/07/02 15:54:33 admin: Logged out<br/><br/>
+2014/07/02 15:54:35 admin: Logged in<br/><br/>
+2014/07/02 15:55:28 admin: New entry in Updates (id=3)<br/><br/>
+2014/07/02 16:32:13 admin: Logged in<br/><br/>
+2014/07/02 16:33:12 admin: Logged out<br/><br/>
+2014/07/02 17:52:23 : New entry in Devices (id=181)<br/><br/>
+2014/07/02 18:04:20 : New entry in Devices (id=182)<br/><br/>
+2014/07/02 18:45:38 admin: Logged in<br/><br/>
+2014/07/02 18:46:40 admin: Logged out<br/><br/>
+2014/07/02 19:14:22 admin: Logged out<br/><br/>
+2014/07/02 19:14:28 admin: Logged in<br/><br/>
+2014/07/02 19:15:41 admin: Logged out<br/><br/>
+2014/07/02 19:17:03 admin: Logged out<br/><br/>
+2014/07/02 19:17:09 admin: Logged in<br/><br/>
+2014/07/02 19:17:29 admin: Logged out<br/><br/>
+2014/07/02 20:59:56 : New entry in Devices (id=183)<br/><br/>
+2014/07/02 22:52:38 admin: Logged in<br/><br/>
+2014/07/02 22:53:02 admin: Logged out<br/><br/>
+2014/07/02 23:08:33 : New entry in Devices (id=184)<br/><br/>
+2014/07/02 23:12:48 : New entry in Devices (id=185)<br/><br/>
+2014/07/02 23:22:54 : New entry in Devices (id=186)<br/><br/>
+2014/07/02 23:37:24 : New entry in Devices (id=187)<br/><br/>
+2014/08/02 00:09:00 : New entry in Devices (id=188)<br/><br/>
+2014/08/02 00:09:04 : Entry updated in Devices (id=188)<br/><br/>
+2014/08/02 00:44:26 : Entry updated in Devices (id=123)<br/><br/>
+2014/08/02 00:50:37 : Entry updated in Devices (id=37)<br/><br/>
+2014/08/02 03:02:16 : New entry in Devices (id=189)<br/><br/>
+2014/08/02 10:54:09 : New entry in Devices (id=190)<br/><br/>
+2014/08/02 12:18:02 : New entry in Devices (id=191)<br/><br/>
+2014/08/02 14:16:31 : New entry in Devices (id=192)<br/><br/>
+2014/08/02 18:25:17 : New entry in Devices (id=193)<br/><br/>
+2014/08/02 18:38:24 : New entry in Devices (id=194)<br/><br/>
+2014/08/02 23:06:19 : New entry in Devices (id=195)<br/><br/>
+2014/09/02 05:46:33 : New entry in Devices (id=196)<br/><br/>
+2014/09/02 11:38:48 : Entry updated in Devices (id=8)<br/><br/>
+2014/10/02 00:02:40 : Entry updated in Devices (id=92)<br/><br/>
+2014/10/02 02:28:33 : Entry updated in Devices (id=85)<br/><br/>
+2014/10/02 11:17:27 : New entry in Devices (id=197)<br/><br/>
+2014/10/02 18:28:43 : New entry in Devices (id=198)<br/><br/>
+2014/11/02 11:50:20 : Entry updated in Devices (id=10)<br/><br/>
+2014/11/02 13:33:36 : Entry updated in Devices (id=62)<br/><br/>
+2014/13/02 09:29:59 : New entry in Devices (id=199)<br/><br/>
+2014/13/02 14:09:03 : New entry in Devices (id=200)<br/><br/>
+2014/13/02 14:19:41 : Entry updated in Devices (id=80)<br/><br/>
+2014/14/02 08:15:31 : New entry in Devices (id=201)<br/><br/>
+2014/14/02 15:50:53 : New entry in Devices (id=202)<br/><br/>
+2014/15/02 01:18:18 : New entry in Devices (id=203)<br/><br/>
+2014/15/02 23:09:50 : Entry updated in Devices (id=28)<br/><br/>
+2014/16/02 22:07:46 : New entry in Devices (id=204)<br/><br/>
+2014/17/02 23:30:34 : New entry in Devices (id=205)<br/><br/>
+2014/19/02 00:10:13 : New entry in Devices (id=206)<br/><br/>
+2014/19/02 00:45:50 : Entry updated in Devices (id=16)<br/><br/>
+2014/19/02 20:49:35 : New entry in Devices (id=207)<br/><br/>
+2014/19/02 20:50:30 : Entry updated in Devices (id=207)<br/><br/>
+2014/19/02 20:50:46 : Entry updated in Devices (id=207)<br/><br/>
+2014/19/02 20:51:18 : Entry updated in Devices (id=207)<br/><br/>
+2014/22/02 03:12:58 : New entry in Devices (id=208)<br/><br/>
+2014/23/02 12:23:08 : Entry updated in Devices (id=133)<br/><br/>
+2014/23/02 14:41:45 : New entry in Devices (id=209)<br/><br/>
+2014/24/02 00:10:18 : New entry in Devices (id=210)<br/><br/>
+2014/24/02 18:21:43 : Entry updated in Devices (id=93)<br/><br/>
+2014/24/02 19:33:22 : New entry in Devices (id=211)<br/><br/>
+2014/24/02 19:33:57 : Entry updated in Devices (id=211)<br/><br/>
+2014/25/02 10:31:26 : Entry updated in Devices (id=29)<br/><br/>
+2014/25/02 21:23:14 : Entry updated in Devices (id=26)<br/><br/>
+2014/26/02 01:01:10 : New entry in Devices (id=212)<br/><br/>
+2014/26/02 07:29:24 : New entry in Devices (id=213)<br/><br/>
+2014/28/02 17:16:12 : New entry in Devices (id=214)<br/><br/>
+2014/01/03 18:00:49 : New entry in Devices (id=215)<br/><br/>
+2014/02/03 19:15:52 : New entry in Devices (id=216)<br/><br/>
+2014/03/03 10:04:06 : New entry in Devices (id=217)<br/><br/>
+2014/04/03 00:01:37 : New entry in Devices (id=218)<br/><br/>
+2014/07/03 19:38:19 : New entry in Devices (id=219)<br/><br/>
+2014/11/03 02:31:47 : New entry in Devices (id=220)<br/><br/>
+2014/12/03 21:43:27 : New entry in Devices (id=221)<br/><br/>
+2014/13/03 00:20:56 : New entry in Devices (id=222)<br/><br/>
